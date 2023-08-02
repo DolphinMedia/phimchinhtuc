@@ -1,16 +1,68 @@
 #EXTM3U
-#EXTINF:-1 group-title="Ma Tốc Độ" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fma-toc-do-thumb.jpg&w=256&q=75", Ma Tốc Độ : Phần 1
+#EXTINF:-1 group-title="DC FILM" tvg-logo="https://images.fptplay.net/media/hbo/vi_029901X2-landscape.jpg", LIÊN MINH CÔNG LÝ PHIÊN BẢN CỦA ZACK SNYDER
+https://1080.opstream4.com/20220314/1902_57c57a75/index.m3u8
+
+#EXTINF:-1 group-title="DC FILM" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/2/2d/Poster_phim_K%E1%BB%B5_s%C4%A9_b%C3%B3ng_%C4%91%C3%AAm_2008.jpg", The Dark Knight
+https://aa.opstream6.com/20220508/14921_bd357a00/index.m3u8
+
+#EXTINF:-1 group-title="DC FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fky-si-bong-dem-troi-day-thumb.jpg&w=256&q=75", The Dark Knight 2
+https://hdbo.opstream5.com/20221021/24460_92588b3e/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://static2.yan.vn/YanNews/2167221/202203/review-phim-morbius-khong-ky-vong-se-chang-co-that-vong-18029d14.jpeg", Morbius
+https://kd.opstream3.com/20220514/11904_168e9614/index.m3u8
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://toplist.vn/images/800px/deadpool-582460.jpg", DEADPOOL
+https://1080.opstream4.com/20220314/1878_cbdf514c/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://toplist.vn/images/800px/deadpool-582460.jpg", DEADPOOL 2
+https://1080.opstream4.com/20220314/1879_f5f41b4c/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-thumb.jpg&w=256&q=75", Spider Man
+https://aa.opstream6.com/20220218/401_37f0a03d/index.m3u8
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-2-thumb.jpg&w=256&q=75", Spider Man 2
+https://hdbo.opstream5.com/20220224/132_ba2b05fd/index.m3u8
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/940e286441aca1e00a856316acf003723a9768c0366d5c85e5b2fa8f60f46cb7._RI_TTW_.jpg", Spider Man 3
+https://hdbo.opstream5.com/20220224/133_043e9b97/index.m3u8
+
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-sieu-dang-thumb.jpg&w=256&q=75", The Amazing SpiderMan
+https://aa.opstream6.com/20220217/221_1cd7bef3/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-sieu-dang-2-thumb.jpg&w=256&q=75", The Amazing SpiderMan 2
+https://hdbo.opstream5.com/20220224/134_6026c426/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-tro-ve-nha-thumb.jpg&w=256&q=75", SpiderMan : Homecoming
+https://aa.opstream6.com/20220217/222_856155f2/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-xa-nha-thumb.jpg&w=256&q=75", SpiderMan : Far from Home
+https://1080.opstream4.com/20220314/1908_c9835323/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-khong-con-nha-thumb.jpg&w=256&q=75", SpiderMan : No Way Home
+hhttps://hdbo.opstream5.com/20230114/29200_a1c84aab/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-vu-tru-moi-thumb.jpg&w=256&q=75", SpiderMan: Into the SpiderVerse 
+https://1080.opstream4.com/20220315/2042_aa34b483/index.m3u8
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-nhen-vu-tru-moi-thumb.jpg&w=256&q=75", SpiderMan: Across The SpiderVerse 
+https://vie2.opstream7.com/20230612/60_6cde5576/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fma-toc-do-thumb.jpg&w=256&q=75", Ma Tốc Độ : Phần 1
 https://hd1080.opstream2.com/20220404/2602_49796f50/index.m3u8
-#EXTINF:-1 group-title="Ma Tốc Độ" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fma-toc-do-2-linh-hon-bao-thu-thumb.jpg&w=256&q=75", Ma Tốc Độ : Phần 2
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fma-toc-do-2-linh-hon-bao-thu-thumb.jpg&w=256&q=75", Ma Tốc Độ : Phần 2
 https://aa.opstream6.com/20220426/12840_90740c65/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="NGƯỜI SÓI : X-Men" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-soi-thumb.jpg&w=256&q=75", X-Men Origins: Wolverine
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-soi-thumb.jpg&w=256&q=75", X-Men Origins: Wolverine
 https://kd.opstream3.com/20220318/1604_a02421bf/index.m3u8
 
-#EXTINF:-1 group-title="NGƯỜI SÓI : X-Men" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-soi-wolverine-thumb.jpg&w=256&q=75", X-Men Origins: Wolverine 2
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-soi-wolverine-thumb.jpg&w=256&q=75", X-Men Origins: Wolverine 2
 https://vie.opstream1.com/20220321/1244_65e4ce1c/index.m3u8
 
-#EXTINF:-1 group-title="NGƯỜI SÓI : X-Men" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-soi-tran-chien-cuoi-cung-thumb.jpg&w=256&q=75", Logan: Người sói
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnguoi-soi-tran-chien-cuoi-cung-thumb.jpg&w=256&q=75", Logan: Người sói
 https://kd.opstream3.com/20220502/10579_b72546d2/index.m3u8
 
 #EXTM3U
@@ -205,29 +257,29 @@ https://hd1080.opstream2.com/20220426/9036_cd930e97/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Secret Invasion (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 1
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 1
 https://1080.opstream4.com/20230622/45069_30356095/index.m3u8
-#EXTINF:-1 group-title="Secret Invasion (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 2
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 2
 https://1080.opstream4.com/20230629/45357_0a61616c/index.m3u8
-#EXTINF:-1 group-title="Secret Invasion (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 3
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 3
 https://hd1080.opstream2.com/20230705/40133_2384b5df/index.m3u8
-#EXTINF:-1 group-title="Secret Invasion (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 4
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 4
 https://1080.opstream4.com/20230712/45767_3365235d/index.m3u8
-#EXTINF:-1 group-title="Secret Invasion (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 5
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 5
 https://hd1080.opstream2.com/20230720/40701_2f5a9d46/index.m3u8
-#EXTINF:-1 group-title="Secret Invasion (2023)" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 6
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/cuoc-xam-luoc-bi-mat-thumb.jpg", Secret Invasion : Tập 6
 https://hd1080.opstream2.com/20230726/40859_a5ae7bb2/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="Hawkeye (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 1
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 1
 https://hd1080.opstream2.com/20220417/4549_c2920f26/index.m3u8
-#EXTINF:-1 group-title="Hawkeye (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 2
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 2
 https://hd1080.opstream2.com/20220417/4553_50a6f94c/index.m3u8
-#EXTINF:-1 group-title="Hawkeye (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 3
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 3
 https://hd1080.opstream2.com/20220417/4556_c97f88d2/index.m3u8
-#EXTINF:-1 group-title="Hawkeye (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 4
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 4
 https://hd1080.opstream2.com/20220417/4558_280af4d0/index.m3u8
-#EXTINF:-1 group-title="Hawkeye (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 5
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 5
 https://hd1080.opstream2.com/20220417/4560_ee717856/index.m3u8
-#EXTINF:-1 group-title="Hawkeye (2021)" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 6
+#EXTINF:-1 group-title="MARVEL FILM" tvg-logo="https://img.ophim8.cc/uploads/movies/mat-dieu-hau-thumb.jpg", Hawkeye : Tập 6
 https://hd1080.opstream2.com/20220417/4563_6987817a/index.m3u8
