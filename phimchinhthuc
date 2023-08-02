@@ -70,8 +70,8 @@ https://kd.opstream3.com/20230307/33504_d318c49a/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 1
-https://kd.opstream3.com/20230414/35414_b045fd6b/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/MissionImpossiblePoster.jpg", Nhiệm vụ bất khả thi
+https://kd.opstream3.com/20230414/35414_b045fd6b/index.m3u8
 
 #EXTINF:-1 group-title="Nhiệm vụ bất khả thi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Img_0940.png/revision/latest?cb=20160718234043", Nhiệm vụ bất khả thi 2
 https://aa.opstream6.com/20220310/2931_99c0ee4a/index.m3u8
