@@ -519,47 +519,45 @@ https://hd1080.opstream2.com/20221125/28392_f649dd40/index.m3u8
 #EXTINF:-1 group-title="Đảo kinh hoàng" tvg-logo="https://chi-blog.com/wp-content/uploads/2019/12/shutter_island_3_chi_blog.jpg", Đảo kinh hoàng
 https://hdbo.opstream5.com/20220304/488_5c7a6bdd/index.m3u8
 
+#EXTM3U
 
 
-#EXTINF:-1 group-title="Top Gun" tvg-logo="https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2019/03/20/1461808707757/TGUN_SAlone_16_9_1920x1080_NB_1279197_1920x1080.jpg" Top Gun : Maverick 1
+#EXTINF:-1 group-title="Top Gun" tvg-logo="https://img.ophim8.cc/uploads/movies/phi-cong-sieu-dang-thumb.jpg", Top Gun
 https://hd1080.opstream2.com/20220324/1956_41635706/index.m3u8
 
-#EXTINF:-1 group-title="Top Gun" tvg-logo="https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2019/03/20/1461808707757/TGUN_SAlone_16_9_1920x1080_NB_1279197_1920x1080.jpg" Top Gun: Maverick 2
-https://kd.opstream3.com/20220817/20230_ab3cffdc/index.m3u8
+#EXTINF:-1 group-title="Top Gun" tvg-logo="https://img.ophim8.cc/uploads/movies/phi-cong-sieu-dang-maverick-thumb.jpg", Top Gun: Maverick
+https://hdbo.opstream5.com/20230314/32994_a7cae69c/index.m3u8
 
-
-
-#EXTINF:-1 group-title="Giải cứu binh nhì Ryan" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/11/01/nf6gfcot_1920x1080-giaicuubinhnhiryan46df22ef6b60c3003eaca9d89a077386.png" GIẢI CỨU BINH NHÌ RYAN
+#EXTINF:-1 group-title="Giải cứu binh nhì Ryan" tvg-logo="https://img.ophim8.cc/uploads/movies/giai-cuu-binh-nhi-ryan-thumb.jpg", Giải cứu binh nhì Ryan
 https://hd1080.opstream2.com/20220316/1420_8c8785e2/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Nhà trắng và London thất thủ" tvg-logo="https://gphimtv.vncns.com/wp-content/uploads/2023/05/Olympus-Has-Fallen-2013.jpg" Nhà trắng thất thủ
+#EXTINF:-1 group-title="Nhà trắng thất thủ" tvg-logo="https://img.ophim8.cc/uploads/movies/nha-trang-that-thu-thumb.jpg", Nhà trắng thất thủ
 https://hd1080.opstream2.com/20221212/30028_ff82d10b/index.m3u8
 
-#EXTINF:-1 group-title="Nhà trắng và London thất thủ" tvg-logo="https://images2.thanhnien.vn/uploaded/taban/2016_04_10/gerard3_CAMF.jpg" London thất thủ
+#EXTINF:-1 group-title="London Thất Thủ" tvg-logo="https://img.ophim8.cc/uploads/movies/london-that-thu-thumb.jpg", London Thất Thủ
 https://hd1080.opstream2.com/20230415/37878_302f9aac/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-title="John Wick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/John-wick-movie-logo.png/revision/latest?cb=20170314002149" John Wick
+#EXTINF:-1 group-title="John Wick" tvg-logo="https://img.ophim8.cc/uploads/movies/sat-thu-john-wick-thumb.jpg", John Wick
 https://aa.opstream6.com/20220217/230_2a856e0f/index.m3u8
 
-#EXTINF:-1 group-title="John Wick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/John-wick-movie-logo.png/revision/latest?cb=20170314002149" John Wick 2
+#EXTINF:-1 group-title="John Wick 2" tvg-logo="https://img.ophim8.cc/uploads/movies/sat-thu-john-wick-2-thumb.jpg", John Wick 2
 https://hd1080.opstream2.com/20220404/2623_45a7554f/index.m3u8
 
-#EXTINF:-1 group-title="John Wick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/John-wick-movie-logo.png/revision/latest?cb=20170314002149" John Wick 3
-https://hdbo.opstream5.com/20230113/29185_9245965d/index.m3u8
+#EXTINF:-1 group-title="John Wick" tvg-logo="https://img.ophim8.cc/uploads/movies/sat-thu-john-wick-phan-3-chuan-bi-chien-tranh-thumb.jpg", John Wick: Chapter 3
+https://hd1080.opstream2.com/20230418/38014_dfb54a88/index.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 group-title="ĐIỆP VIÊN KHÔNG KHÔNG THẤY" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fjohnny-english-diep-vien-khong-khong-thay-thumb.jpg&w=256&q=75" ĐIỆP VIÊN KHÔNG KHÔNG THẤY 1
+#EXTINF:-1 group-title="Johnny English" tvg-logo="https://img.ophim8.cc/uploads/movies/johnny-english-diep-vien-khong-khong-thay-thumb.jpg", Johnny English
 https://kd.opstream3.com/20220318/1594_ec4f4ce8/index.m3u8
 
-#EXTINF:-1 group-title="ĐIỆP VIÊN KHÔNG KHÔNG THẤY" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fjohnny-english-diep-vien-khong-khong-thay-thumb.jpg&w=256&q=75" ĐIỆP VIÊN KHÔNG KHÔNG THẤY 2
+#EXTINF:-1 group-title="Johnny English" tvg-logo="https://img.ophim8.cc/uploads/movies/diep-vien-khong-khong-thay-tai-xuat-thumb.jpg", Johnny English 2
 https://hd1080.opstream2.com/20221125/28385_68a19622/index.m3u8
 
-#EXTM3U
 
-#EXTINF:-1 group-title="ĐIỆP VIÊN KHÔNG KHÔNG THẤY" tvg-logo="https://ophim8.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fjohnny-english-diep-vien-khong-khong-thay-thumb.jpg&w=256&q=75" ĐIỆP VIÊN KHÔNG KHÔNG THẤY 3
+#EXTINF:-1 group-title="Johnny English" tvg-logo="https://img.ophim8.cc/uploads/movies/johnny-english-strikes-again-thumb.jpg", Johnny English 3
 https://kd.opstream3.com/20220318/1593_f6c88c0e/index.m3u8
