@@ -15,8 +15,14 @@ http://b4tv.live/b4tv/b4tv/2.m3u8
 
 #EXTINF:-1 group-title="Dolphin Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Bi%E1%BB%83u_tr%C6%B0ng_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023.svg/800px-Bi%E1%BB%83u_tr%C6%B0ng_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023.svg.png", Dolphin Events HOT
 
-#EXTINF:-1 group-title="VEBO TV" tvg-logo="https://home.vebo8.link/static/img/logo.webp", DOLPHIN VEBO FHD
+#EXTINF:-1 group-title="VEBO TV" tvg-logo="https://home.vebo8.link/static/img/logo.webp", DOLPHIN VEBO 1 FHD
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="VEBO TV" tvg-logo="https://home.vebo8.link/static/img/logo.webp", DOLPHIN VEBO 2 FHD
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="VEBO TV" tvg-logo="https://home.vebo8.link/static/img/logo.webp", DOLPHIN VEBO 3 FHD 
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" group-title="FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
 http://103.56.160.133:8081/quochoi
