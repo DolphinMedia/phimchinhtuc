@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Oppenheimer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Oppenheimer_Movie_Logo_2023.png", Oppenheimer (8.8.2023)
+https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/365700331_117530911430217_6995752053602671278_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=kij9Gj3roBgAX_qXLq7&_nc_ht=scontent.fdad2-1.fna&oh=00_AfBBSCyChGWCQBi4NI29N47awjQbMrF25dpHMZyt-fY0pw&oe=64D5C2B3
+
 #EXTINF:-1 group-title="DC FILM" tvg-logo="https://images.fptplay.net/media/hbo/vi_029901X2-landscape.jpg", LIÊN MINH CÔNG LÝ PHIÊN BẢN CỦA ZACK SNYDER
 https://1080.opstream4.com/20220314/1902_57c57a75/index.m3u8
 
