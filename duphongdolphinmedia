@@ -9,31 +9,6 @@ http://103.195.238.135:8080/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT 2
 http://103.172.78.51:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Dolphin Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Bi%E1%BB%83u_tr%C6%B0ng_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023.svg/800px-Bi%E1%BB%83u_tr%C6%B0ng_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023.svg.png", Dolphin Events HOT
-
-#EXTINF:-1 tvg-id="quochoi" group-title="FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
-http://103.56.160.133:8081/quochoi
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
-http://103.56.160.133:8081/onfootball
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
-http://103.9.211.134:8080/OSN/mpegts
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
-
-#EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
-https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
-#EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
-https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
-#EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
-https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
-#EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
-
-
-#EXTINF:-1 group-title="Dolphin Events" tvg-logo="https://staticfanpage.akamaized.net/wp-content/uploads/sites/27/2022/09/ronaldo-cellulare-tifoso-deferito-squalifica-1200x675.jpg", Dolphin Events 1
-http://103.195.238.135:8080/hls/0/stream.m3u8
-
 #EXTINF:-1 group-title="Dolphin MLS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png", Dolphin MLS 1
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 
@@ -48,11 +23,6 @@ https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin SP Max+
 https://hqth.me/gViDT
-
-#EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin SP BongdaViet 1
-
-#EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin SP+
-http://103.195.238.135:8080/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin Premium
 
