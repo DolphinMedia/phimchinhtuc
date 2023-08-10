@@ -3,15 +3,11 @@
 #EXTINF:-1 group-title="Truyền hình" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png", Bạc Liêu HD
 https://tv.thbl.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", Dolphin x B4TV : B4CONNECT
+#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT 1
 http://103.195.238.135:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", Dolphin x B4TV : B4TUBE
-http://b4tv.live/b4tv/b4tv/4.m3u8
-
-#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", Dolphin x B4TV : B4BOX
-http://b4tv.live/b4tv/b4tv/2.m3u8
-
+#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT 2
+http://103.172.78.51:8080/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="Dolphin Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/Bi%E1%BB%83u_tr%C6%B0ng_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023.svg/800px-Bi%E1%BB%83u_tr%C6%B0ng_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_n%E1%BB%AF_th%E1%BA%BF_gi%E1%BB%9Bi_2023.svg.png", Dolphin Events HOT
 
@@ -73,21 +69,6 @@ https://s.net.vn/RBUH
 #EXTINF:-1 group-title="Bồ Đào Nha" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png", SportTV 3 (FHD)
 https://s.net.vn/NRet
 
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="SkySport" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport F1 4K
-https://by.tn/KztL
-
-#EXTINF:-1 group-title="SkySport" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport F1 FHD
-https://g2.by/UwJu
-
-#EXTINF:-1 group-title="SkySport" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport EPL FHD
-https://s.net.vn/tMPt
-
-#EXTINF:-1 group-title="SkySport" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport Football FHD
-https://s.net.vn/tPtw
 
 #EXTINF:-1 group-title="SkySport Đức" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport EPL (Đức) FHD
 http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646891&extension=ts&play_token=NdX4Y75kLh
