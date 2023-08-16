@@ -13,6 +13,7 @@ http://103.195.238.135:8080/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT 2
 http://103.172.78.51:8080/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4BOX
@@ -25,41 +26,3 @@ http://b4tv.live/b4tv/b4tv/47.m3u8
 http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4TUBE
 http://b4tv.live/b4tv/b4tv/4.m3u8
-
-
-#EXTINF:-1 group-title="Dolphin MLS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png", Dolphin MLS 1
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="Dolphin MLS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png", Dolphin MLS 2
-
-
-#EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin SP 1
-
-
-#EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin SP Max
-https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin SP Max+
-https://hqth.me/gViDT
-
-#EXTINF:-1 group-title="Dolphin SP" tvg-logo="https://companieslogo.com/img/orig/DLPN-6764c6c0.png?t=1607351982", Dolphin Premium
-
-#EXTM3U
-
-#EXTINF:-1 group-title="Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png", MUTV FHD
-https://goeco.link/qblKh
-
-
-#EXTINF:-1 group-title="Bồ Đào Nha" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png", SportTV 1 (FHD)
-https://goeco.link/2sxx
-#EXTINF:-1 group-title="Bồ Đào Nha" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png", SportTV 2 (FHD)
-https://s.net.vn/RBUH
-#EXTINF:-1 group-title="Bồ Đào Nha" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png", SportTV 3 (FHD)
-https://s.net.vn/NRet
-
-
-#EXTINF:-1 group-title="SkySport Đức" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport EPL (Đức) FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646891&extension=ts&play_token=NdX4Y75kLh
-
-#EXTINF:-1 group-title="SkySport Đức" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", SkySport BUNDESLIGA (Đức) FHD
-http://89.45.13.201:8080/play/live.php?mac=00:1A:79:07:BB:04&stream=646890&extension=ts&play_token=RXYxyanHL7
