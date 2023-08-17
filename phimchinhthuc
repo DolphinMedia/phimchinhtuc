@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Oppenheimer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Oppenheimer_Movie_Logo_2023.png", Oppenheimer HD CAM
-https://vie2.opstream7.com/20230729/635_91d668ed/index.m3u8
+#EXTINF:-1 group-title="Oppenheimer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Oppenheimer_Movie_Logo_2023.png", Oppenheimer HD
+https://vie2.opstream7.com/20230816/790_20e8384b/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="DC FILM" tvg-logo="https://images.fptplay.net/media/hbo/vi_029901X2-landscape.jpg", LIÊN MINH CÔNG LÝ PHIÊN BẢN CỦA ZACK SNYDER
 https://1080.opstream4.com/20220314/1902_57c57a75/index.m3u8
