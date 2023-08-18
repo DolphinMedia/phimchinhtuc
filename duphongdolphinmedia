@@ -2,7 +2,40 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
-#EXTINF:-1 group-title="Truyền hình" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png", Bạc Liêu HD
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/800px-VTV1_logo_2013_final.svg.png", VTV1
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2MWhkXzIwMDAuc3RyZWFtfHZucHR8MTY5MjM4NTgxMnwxNC4xNzYuMjQ2LjEzN3xlN2YxM2MzN2FmZDA1Mzg0N2QwZjY3NjNiM2RmY2EwYQ/fnxhd1/vtv1hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg", VTV2
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2Ml8yMDAwLnN0cmVhbXx2bnB0fDE2OTIzODU4NTZ8MTQuMTc2LjI0Ni4xMzd8ZDAwNWMwY2I0MjJiYjY3YTFlNGFmODFhNTcxZDkxNjY/fnxhd1/vtv2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2M2hkXzIwMDAuc3RyZWFtfHZucHR8MTY5MjM4NTkyNHwxNC4xNzYuMjQ2LjEzN3wzNGQyMzJlMTc2ZmE1NmE4OGI3OTU0YTEwOTllMzgxNg/fnxhd1/vtv3hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/VTV4_logo_2013_final.svg", VTV4
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2NF8yMDAwLnN0cmVhbXx2bnB0fDE2OTIzODU5NDd8MTQuMTc2LjI0Ni4xMzd8NjlkOWYwNzhlNTViZjczNDQ5NjU1MDMwYjQ0OTlmZDA/fnxhd1/vtv4_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2NWhkXzIwMDAuc3RyZWFtfHZucHR8MTY5MjM4NjAwMnwxNC4xNzYuMjQ2LjEzN3w2MWNhNGVlMGNmZDc1M2NkZjFmZjk2MzliOTg3MDIyYw/epzhd1/vtv5hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 Tây Nguyên
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2NXRheW5ndXllbl8yMDAwLnN0cmVhbXx2bnB0fDE2OTIzODYwMjN8MTQuMTc2LjI0Ni4xMzd8MThjNzg2NDk1MTQyNmFhYjc4YTlhOTMzNDM2ZDUyZmU/fnxhd1/vtv5taynguyen_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2Y2FudGhvXzIwMDAuc3RyZWFtfHZucHR8MTY5MjM4NjA1NnwxNC4xNzYuMjQ2LjEzN3wzMDM4MTg0ZGY1MmNjNzUwZDYyYTljMmM0Mjg3MzA4Yw/fnxhd1/vtvcantho_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/VTV7_logo_2016_final.svg", VTV7
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2N2hkXzIwMDAuc3RyZWFtfHZucHR8MTY5MjM4NjA3N3wxNC4xNzYuMjQ2LjEzN3xjYWNmYmI4MzNlOGU3MTY0NWUzODAyMjczZDZlYmNjNA/fnxhd1/vtv7hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/VTV8_2016.png/revision/latest/scale-to-width-down/1200?cb=20220212033707&path-prefix=vi", VTV8
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2OGhkXzIwMDAuc3RyZWFtfHZucHR8MTY5MjM4NjE0M3wxNC4xNzYuMjQ2LjEzN3w1MTk0ZmM2MTQzMzU4NTk1NTc1YzMxZWI3MjU4MzEyYQ/epzhd1/vtv8hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/2560px-VTV9_logo_2013_final.svg.png", VTV9
+livecdn.fptplay.net/Mjg1MTM4NTR8dnR2OV8yMDAwLnN0cmVhbXx2bnB0fDE2OTIzODYxODJ8MTQuMTc2LjI0Ni4xMzd8YjI1OGFkODMzMDg3MTRkOTliZWEwZjI5YzhlY2NjNjA/fnxhd1/vtv9_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình địa phương" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png", Hà Nam HD
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+
+#EXTINF:-1 group-title="Truyền hình địa phương" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png", Bạc Liêu HD
 https://tv.thbl.vn/live/tv/tv.m3u8
 
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT
