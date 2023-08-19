@@ -69,3 +69,23 @@ http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532958
 
 #EXTINF:-1 group-title="Chùm kênh 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png", FAKETAXI FEMALE
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532960
+
+#EXTINF:-1 group-title="Premier league" tvg-logo="https://static.wikia.nocookie.net/bourne/images/f/fa/Logo-usa.png/revision/latest?cb=20191122145326", USA Network
+
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
+http://livecdn.khanggtivi.duckdns.org/getlink/SCTV/playlist.m3u8?id=sctv17
+
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
+http://128.199.214.24/OSN/mpegts
+
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/21kwb4.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://iplogger.com/215pb4.m3u8
