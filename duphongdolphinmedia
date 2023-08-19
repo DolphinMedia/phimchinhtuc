@@ -45,3 +45,22 @@ http://b4tv.live/b4tv/b4tv/47.m3u8
 http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4TUBE
 http://b4tv.live/b4tv/b4tv/4.m3u8
+
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png", BBC Earth
+http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
+
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/01/Discovery_Channel_tr%C6%B0%E1%BB%9Bc_2009.png/revision/latest/scale-to-width-down/1000?cb=20220206014912&path-prefix=vi", Discovery
+http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
+
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://assets-cdn.nationalgeographic.com/natgeo/static/default.NG.logo.dark.jpg", National Geographic
+http://live.vthanhtivi.pw/natgeo
+
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
+
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png", ANIMAX
+http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png", HBO
+https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+
