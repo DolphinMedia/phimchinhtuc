@@ -90,6 +90,6 @@ https://iplogger.com/21kwb4.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/215pb4.m3u8
 
-#EXTINF:-1 group-title="Kênh thể thao khác" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQRed4lY9kswvGXElWKc-M1pgz3-jyQ7RyhrI4E-Q=s900-c-k-c0x00ffffff-no-rj", M4 SPORT
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 group-title="Premier league" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
 https://s.net.vn/jAU6
