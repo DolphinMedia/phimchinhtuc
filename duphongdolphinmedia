@@ -2,6 +2,10 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
+#EXTINF:-1 group-title="Chùm FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 1
+
+#EXTINF:-1 group-title="Chùm FPT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 2
+
 
 #EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/800px-VTV1_logo_2013_final.svg.png", VTV1
 http://103.172.78.65:8081/vmt/vtv1
@@ -74,7 +78,7 @@ http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532958
 #EXTINF:-1 group-title="Chùm kênh 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png", FAKETAXI FEMALE
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532960
 
-#EXTINF:-1 group-title="Premier league" tvg-logo="https://static.wikia.nocookie.net/bourne/images/f/fa/Logo-usa.png/revision/latest?cb=20191122145326", USA Network
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://static.wikia.nocookie.net/bourne/images/f/fa/Logo-usa.png/revision/latest?cb=20191122145326", USA Network
 https://by.tn/nBk8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
@@ -95,10 +99,10 @@ https://iplogger.com/21kwb4.m3u8
 https://iplogger.com/215pb4.m3u8
 
 
-#EXTINF:-1 group-title="Kênh thể thao khác" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
 https://s.net.vn/jAU6
 
 
 
-#EXTINF:-1 group-title="Kênh thể thao khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png", Canal+ 2
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png", Canal+ 2
 https://s.net.vn/dV8V
