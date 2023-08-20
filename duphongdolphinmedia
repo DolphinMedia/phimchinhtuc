@@ -15,6 +15,10 @@ https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
 http://103.172.78.65:8081/vmt/vtv5
 #EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+
+#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
+http://103.172.78.65:8081/vmt/vtv5tnb
+
 #EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
 http://103.172.78.65:8081/vmt/vtvcantho
 
@@ -91,5 +95,10 @@ https://iplogger.com/21kwb4.m3u8
 https://iplogger.com/215pb4.m3u8
 
 
-#EXTINF:-1 group-title="Premier league" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
+#EXTINF:-1 group-title="Kênh thể thao khác" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
 https://s.net.vn/jAU6
+
+
+
+#EXTINF:-1 group-title="Kênh thể thao khác" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png", Canal+ 2
+https://s.net.vn/dV8V
