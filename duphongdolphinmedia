@@ -102,7 +102,26 @@ https://iplogger.com/215pb4.m3u8
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
 https://s.net.vn/jAU6
 
-
-
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png", Canal+ 2
 https://s.net.vn/dV8V
+
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840", Digi Sport 1
+https://by.tn/digisp1
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vqqrrq1436105445.png", Digi Sport 2
+https://g2.by/digisp2
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cz682u1628519810.png", Match Futbol 1
+https://by.tn/matchfubol1
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/am4ot71628519853.png", Match Futbol 2
+https://s.net.vn/1M7Y
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 1 Portugal HD
+https://by.tn/elevensp1-pt
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 2 Portugal HD
+https://by.tn/elevensp2-pt
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://premiumvns.com/wp-content/uploads/2021/11/sport-tv.png.webp", Sport TV4
+https://by.tn/Sport-TV4
