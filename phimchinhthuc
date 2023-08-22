@@ -4622,3 +4622,15 @@ https://hdbo.opstream5.com/20221215/27258_52a6f51a/index.m3u8
 https://hdbo.opstream5.com/20221215/27259_9b50a131/index.m3u8
 #EXTINF:-1 group-title="Neymar: The Perfect Chaos (2022)" tvg-logo="https://img.ophim8.cc/uploads/movies/neymar-su-hon-loan-hoan-hao-thumb.jpg", Neymar: The Perfect Chaos : Tập 3
 https://hdbo.opstream5.com/20221215/27260_d42bef06/index.m3u8
+
+#EXTINF:-1 group-title="Thor" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/fc/Thor_poster.jpg", Thần sấm Thor 
+https://1080.opstream4.com/20220315/2079_861644e1/index.m3u8
+
+#EXTINF:-1 group-title="Thor" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3c/Thor2artbookcover.jpg/revision/latest?cb=20141018214150", Thor : The Dark World
+https://1080.opstream4.com/20220314/1941_168942bf/index.m3u8
+
+#EXTINF:-1 group-title="Thor" tvg-logo="https://flxt.tmsimg.com/assets/p12402331_p_v10_ba.jpg", Thor : Ragnarok
+https://1080.opstream4.com/20220314/1940_c82a101e/index.m3u8
+
+#EXTINF:-1 group-title="Thor" tvg-logo="https://tintuc-divineshop.cdn.vccloud.vn/wp-content/uploads/2022/06/thor-love-and-thunder-diem-qua-cac-nhan-vat-quan-trong-trong-cuoc-chien-giua-cac-vi-than_62ba7037700e3.jpeg", Thor : Love and Thunder
+https://kd.opstream3.com/20220907/21178_fd1ce83b/index.m3u8
