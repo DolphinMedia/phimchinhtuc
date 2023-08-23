@@ -72,12 +72,6 @@ http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png", HBO
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="Chùm kênh 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png", FAKETAXI
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532958
-
-#EXTINF:-1 group-title="Chùm kênh 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png", FAKETAXI FEMALE
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532960
-
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://static.wikia.nocookie.net/bourne/images/f/fa/Logo-usa.png/revision/latest?cb=20191122145326", USA Network
 https://by.tn/nBk8
 
@@ -150,3 +144,10 @@ https://s.net.vn/sEWe
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD (Dự phòng)
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/497615
+
+
+#EXTINF:-1 group-title="Chùm kênh 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png", FAKETAXI (18+)
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532958
+
+#EXTINF:-1 group-title="Chùm kênh 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png", FAKETAXI FEMALE (18+)
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/532960
