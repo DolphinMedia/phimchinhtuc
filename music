@@ -1,6 +1,19 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Maroon5" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/201248/425.ab.adam.050812.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top", Payphone
-https://c3-ex-swe.nct.vn/PreNCT3/Payphone-Maroon5-WizKhalifa_3fk.mp4?st=9bgb_pf9tXTJtlvyrIBTWQ&e=1692881836&t=1692795450874
+#EXTINF:-1 group-title="Maroon5" tvg-logo="https://assets.capitalfm.com/2012/19/maroon-5-payphone-16-1336664691-view-1.jpg", Payphone : Maroon5 (MP4)
+https://by.tn/payphone
 
-#EXTINF:-1 group-title="Maroon5" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/201248/425.ab.adam.050812.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top", One More Night
+#EXTINF:-1 group-title="Maroon5" tvg-logo="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-155935-rectangle.jpg?w=624", One More Night : Maroon5 (MP4)
 https://c3-ex-swe.nct.vn/PreNCT4/OneMoreNight-Maroon5_du8.mp4?st=wtO18HOp3K5_J6EnfOIMvA&e=1692881945&t=1692795543902
+
+#EXTINF:-1 group-title="Maroon5" tvg-logo="https://2.bp.blogspot.com/-9VjC0aVcxJ0/W5NMgVcildI/AAAAAAAAM1A/68mn1V45f7wVMoCd6FRfxlhV-l1vOvDJwCLcBGAs/s640/video.jpeg", Girls Like You (Maroon5)
+https://c3-ex-swe.nct.vn/PreNCT14/GirlsLikeYou-Maroon5CardiB-5493054.mp4?st=YC847zZqZRLmpo3cek1ELw&e=1692882191&t=1692796109538
+
+#EXTINF:-1 group-title="SpiderMan antheme" tvg-logo="https://i.ytimg.com/vi/ApXoWvfEYVU/maxresdefault.jpg", Sunflower by Post Malone (MP4)
+https://c3-ex-swe.nct.vn/PreNCT15/SunflowerSpidermanIntoTheSpiderverse-PostMaloneSwaeLee-5708862.mp4?st=DD4jLUQaKKPNG9DjphsJ7w&e=1692883220&t=1692796798594
+
+#EXTINF:-1 group-title="SpiderMan antheme" tvg-logo="https://i.ytimg.com/vi/FPUcxyHiCjA/maxresdefault.jpg", Annihilate by Metro Boomin (MP3)
+https://c3-ex-swe.nct.vn/NhacCuaTui2041/AnnihilateSpidermanAcrossTheSpiderverse-MetroBoominSwaeLeeLilWayneOffset-9677518.mp3?st=45r5PjqB6nk08bcVaO2ShA&e=1693398136&t=1692796909683
+
+#EXTINF:-1 group-title="SpiderMan antheme" tvg-logo="https://i.ytimg.com/vi/XiqN3pOIVIw/maxresdefault.jpg", Mona Lisa by Dominic Fike (MP3)
+https://c3-ex-swe.nct.vn/Sony_Audio122/MonaLisaSpidermanAcrossTheSpiderverseDeluxeEdition-DominicFike-9609913.mp3?st=yOb6Y4qlycHp076SxkT0FA&e=1693398227&t=1692797000304
+
