@@ -123,6 +123,18 @@ https://by.tn/elevensp1-pt
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 2 Portugal HD
 https://by.tn/elevensp2-pt
 
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 SD
+http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106358
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 HD
+http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106357
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 HD (dự phòng)
+https://s.net.vn/TFR4
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 FHD
+https://s.net.vn/1z9k
+
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://premiumvns.com/wp-content/uploads/2021/11/sport-tv.png.webp", Sport TV4
 https://by.tn/Sport-TV4
 
@@ -133,3 +145,8 @@ https://s.net.vn/sonyten2
 http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/517764
 
 
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD 
+https://s.net.vn/sEWe
+
+#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD (Dự phòng)
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/497615
