@@ -1,3 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Maroon5" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/201248/425.ab.adam.050812.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top", Payphone
 https://c3-ex-swe.nct.vn/PreNCT3/Payphone-Maroon5-WizKhalifa_3fk.mp4?st=9bgb_pf9tXTJtlvyrIBTWQ&e=1692881836&t=1692795450874
+
+#EXTINF:-1 group-title="Maroon5" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/201248/425.ab.adam.050812.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top", One More Night
+https://c3-ex-swe.nct.vn/PreNCT4/OneMoreNight-Maroon5_du8.mp4?st=wtO18HOp3K5_J6EnfOIMvA&e=1692881945&t=1692795543902
