@@ -2,8 +2,12 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
-#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Dolphin Media Event 1
+#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Dolphin Media Event 1 (Link 90P)
 https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/SaudiProfessionalLeague.png", Dolphin Media Event 1 (Link CaKhia)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://179665839.global.cdnfastest.com/live/luhd2/chunklist.m3u8
 
 #EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://mybroadband.co.za/news/wp-content/uploads/2023/07/EPL-2023-2024-players-headline-.jpg", Dolphin Media Event 2
 
