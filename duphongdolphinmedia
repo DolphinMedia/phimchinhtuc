@@ -75,9 +75,11 @@ https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 https://by.tn/nBk8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/dash/SCTV15_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-https://livecdn.khanggtivi.xyz/getlink/SCTV/playlist.m3u8?id=sctv17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
