@@ -1,7 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Eva Elfie" tvg-logo="https://i.ebayimg.com/images/g/~wwAAOSw7fVjyosP/s-l1600.jpg", Eva Elfie 1
-https://ev-h.phncdn.com/hls/videos/201905/17/224195221/,1080P_4000K,720P_4000K,480P_2000K,240P_400K,_224195221.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1692401539&validto=1692408739&ipa=149.28.210.235&hdl=-1&hash=Xks%2FRdTNqwyuudELEmvLcL9ccUY%3D
-
-#EXTINF:-1 group-title="Eva Elfie" tvg-logo="https://i.ebayimg.com/images/g/~wwAAOSw7fVjyosP/s-l1600.jpg", Eva Elfie 2
-https://ev-h.phncdn.com/hls/videos/202002/28/288444792/,200809_1443_1080P_4000K,200809_1443_720P_4000K,200809_1443_480P_2000K,200809_1443_240P_1000K,_288444792.mp4.urlset/index-f1-v1-a1.m3u8?validfrom=1692401663&validto=1692408863&ipa=149.28.210.235&hdl=-1&hash=Xxe9jfCNcWBxauWgQAEPVwCgdL8%3D
+ 
+#EXTINF:-1 group-title="Maroon5" tvg-logo="https://assets.capitalfm.com/2012/19/maroon-5-payphone-16-1336664691-view-1.jpg", Payphone (Maroon5)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgn-vnpt-001-livecdn-vthn-vnd.vieon.vn/baa855eab0ec0b5d8d1d7364dc0dd6c2/1693071326699/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/tracks-a1/seg-0-38480.hls.fmp4
