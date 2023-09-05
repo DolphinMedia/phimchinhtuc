@@ -5,8 +5,7 @@ http://b4tv.live/b4tv/b4tv/48.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://yt3.googleusercontent.com/G6y6Uwh7ES_Hcy6QVszC_m8AAJGOa4inVPR8sg8F3tzd32tPBFGk3K-cX4695UQK1DGbkd5bhCI=s900-c-k-c0x00ffffff-no-rj", Dolphin SP1
-http://103.172.78.65:8080/hls/0/stream.m3u8
-
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/800px-VTV1_logo_2013_final.svg.png", VTV1
 http://103.172.78.65:8081/vmt/vtv1
 #EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg", VTV2
