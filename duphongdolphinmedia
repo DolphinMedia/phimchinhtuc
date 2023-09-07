@@ -46,6 +46,16 @@ http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4TUBE
 http://b4tv.live/b4tv/b4tv/4.m3u8
 
+#EXTINF:-1 group-title="Chùm kênh Fox USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png", FOX Sports 1
+http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418178
+
+#EXTINF:-1 group-title="Chùm kênh Fox USA" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/Fox_Sports_2.png/revision/latest/scale-to-width-down/1000?cb=20221214051346&path-prefix=vi", FOX Sports 2
+http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418179
+
+#EXTINF:-1 group-title="TyC Sports" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q", TyC Sports USA
+http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418166
+
+
 #EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png", BBC Earth
 http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 
