@@ -2,6 +2,8 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
+#EXTINF:-1 group-title="KICKtv" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQ97DZWnavswgJGd0k1A_4-86luBhMtQ5uMnhf5BQ=s900-c-k-c0x00ffffff-no-rj", SIDEMEN TV
+https://hqth.me/WqMNB
 
 #EXTINF:-1 group-title="KICKTV" tvg-logo="https://staticg.sportskeeda.com/editor/2023/03/eb370-16778599846853-1920.jpg", KICK TV
 https://hqth.me/CycKj
