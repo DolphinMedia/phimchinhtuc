@@ -2,8 +2,17 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
-#EXTINF:-1 group-title="KICKTV" tvg-logo="https://staticg.sportskeeda.com/editor/2023/03/eb370-16778599846853-1920.jpg", KICK TV
-https://hqth.me/8Wkc1
+#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 France
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496632
+
+#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 France 4K
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/522218
+
+#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest?cb=20171123164013", Eurosport 2 France
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496633
+
+#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest?cb=20171123164013", Eurosport 2 France 4K
+http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/522219
 
 #EXTINF:-1 group-title="Chùm kênh 90P" tvg-logo="https://bongda.90phut4.xyz/images/logo-90.png", 90Phut TV 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
