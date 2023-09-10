@@ -3,7 +3,6 @@
 #EXTINF:-1 group-title="Oppenheimer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Oppenheimer_Movie_Logo_2023.png", Oppenheimer HD
 https://vie2.opstream7.com/20230816/790_20e8384b/3000k/hls/mixed.m3u8
 
-
 #EXTINF:-1 group-title="One Piece Live Action" tvg-logo="https://static.wikia.nocookie.net/onepiece/images/6/6c/One_Piece_%28Live-Action_Series%29_Logo.png/revision/latest/scale-to-width-down/1200?cb=20230613033521", One Piece Live Action : Tập 1
 https://hd1080.opstream2.com/20230831/41892_9df0f04c/3000k/hls/mixed.m3u8
 
@@ -2847,6 +2846,11 @@ https://hdbo.opstream5.com/20230813/34955_b2a074d1/index.m3u8
 
 #EXTINF:-1 group-title="One Piece (Luffy) (1999)" tvg-logo="https://img.ophim8.cc/uploads/movies/one-piece-thumb.jpg", One Piece (Luffy) - Tập 1073
 https://1080.opstream4.com/20230820/46677_06f288f1/3000k/hls/mixed.m3u8
+
+#EXTINF:-1 group-title="One Piece (Luffy) (1999)" tvg-logo="https://img.ophim8.cc/uploads/movies/one-piece-thumb.jpg", One Piece (Luffy) - Tập 1074
+https://hdbo.opstream5.com/share/98fe179807288d2f5b33d1b87e42a694
+
+
 
 #EXTM3U
 
