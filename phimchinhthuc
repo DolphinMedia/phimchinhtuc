@@ -4738,3 +4738,15 @@ https://hdbo.opstream5.com/20230813/34950_2cd85706/index.m3u8
 https://1080.opstream4.com/20230820/46680_dc629bfb/index.m3u8
 #EXTINF:-1 group-title="Horimiya ss2" tvg-logo="https://img.ophim8.cc/uploads/movies/horimiya-the-missing-pieces-thumb.jpg", Horimiya ss2 : Tập 9
 https://hdbo.opstream5.com/20230827/34995_410a4051/index.m3u8
+#EXTINF:-1 group-title="Horimiya ss2" tvg-logo="https://img.ophim8.cc/uploads/movies/horimiya-the-missing-pieces-thumb.jpg", Horimiya ss2 : Tập 10
+https://1080.opstream4.com/20230903/46883_545227d1/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Horimiya ss2" tvg-logo="https://img.ophim8.cc/uploads/movies/horimiya-the-missing-pieces-thumb.jpg", Horimiya ss2 : Tập 11
+https://1080.opstream4.com/20230911/47049_bbaa1bf8/3000k/hls/mixed.m3u8
+
+#EXTINF:-1 group-title="NHÀ CÓ NĂM NÀNG DÂU PHẦN ĐẶC BIỆT" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4b/B%C3%ACa_anime_Go-T%C5%8Dbun_no_Hanayome.jpg", NHÀ CÓ NĂM NÀNG DÂU PHẦN ĐẶC BIỆT : Tập 1
+https://hdbo.opstream5.com/20230903/35027_e8035ef8/index.m3u8
+#EXTINF:-1 group-title="NHÀ CÓ NĂM NÀNG DÂU PHẦN ĐẶC BIỆT" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4b/B%C3%ACa_anime_Go-T%C5%8Dbun_no_Hanayome.jpg", NHÀ CÓ NĂM NÀNG DÂU PHẦN ĐẶC BIỆT : Tập 2
+https://1080.opstream4.com/20230911/47050_a9a88466/index.m3u8
+
+#EXTINF:-1 group-title="BABYLON" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM4MWIwMGItYzA3ZC00MDY4LTlhNWQtY2MwOTViODk1M2U1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg", BABYLON
+https://kd.opstream3.com/20230202/30099_aa31707c/index.m3u8
