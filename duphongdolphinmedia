@@ -3,19 +3,19 @@
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
 
-#EXTINF:-1,ARENA SPORTS1
+#EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 1
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
 
-#EXTINF:-1,ARENA SPORTS2
+#EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 2
 http://93.155.227.38:90/m3u8/arenasport2.m3u8
 
-#EXTINF:-1,ARENA SPORTS3
+#EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 3
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
-#EXTINF:-1,ARENA SPORTS4
+#EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 4
 http://93.155.227.38:90/m3u8/arenasport4.m3u8
 
-#EXTINF:-1,ARENA SPORTS5
+#EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 5
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
 
 #EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 France
