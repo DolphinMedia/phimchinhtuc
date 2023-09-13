@@ -2,6 +2,22 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
+
+#EXTINF:-1,ARENA SPORTS1
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+
+#EXTINF:-1,ARENA SPORTS2
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
+
+#EXTINF:-1,ARENA SPORTS3
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
+
+#EXTINF:-1,ARENA SPORTS4
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+
+#EXTINF:-1,ARENA SPORTS5
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+
 #EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 France
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496632
 
