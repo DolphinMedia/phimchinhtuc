@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="intro" tvg-logo="http://103.195.238.135:8080/logo", INTRO
 http://b4tv.live/b4tv/b4tv/48.m3u8
 
+#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT
+http://103.172.78.65:8080/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://yt3.googleusercontent.com/r2E5eqodxe1vI1fUg229yOL5YyiBFq23wSbzXCcVKMEINj3i_DkM3hKZ4Rt9CBG3N9qaSInc=s900-c-k-c0x00ffffff-no-rj", Dolphin Premier 1
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 
@@ -75,8 +78,6 @@ https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 group-title="Truyền hình địa phương" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png", Bạc Liêu HD
 https://tv.thbl.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT 1
-http://103.172.78.65:8080/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4BOX
