@@ -5,9 +5,6 @@ http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT
 http://103.172.78.65:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blta13ecf14620fb471/64633bc5091e25dab4d1f125/Big_Match_Inter-Milan.jpg?auto=webp&format=pjpg&width=3840&quality=60", VASport Super
-https://pc-web.stream.onlive.vn/live-stm-06/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.Z0gFG_sauQjVDaN_XM8Fo75cMp5KgidRsMe00v5hHoXukxHhZk_qtG5sCpMipvtzGu22S2eYky4kDBl3eAN7GIvOqgxjbvwZ-9LZwmn373I
-
 #EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://yt3.googleusercontent.com/r2E5eqodxe1vI1fUg229yOL5YyiBFq23wSbzXCcVKMEINj3i_DkM3hKZ4Rt9CBG3N9qaSInc=s900-c-k-c0x00ffffff-no-rj", Dolphin Premier 1
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 
