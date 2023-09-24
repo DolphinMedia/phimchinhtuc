@@ -111,9 +111,6 @@ http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 #EXTINF:-1 group-title="Kênh nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png", HBO
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://static.wikia.nocookie.net/bourne/images/f/fa/Logo-usa.png/revision/latest?cb=20191122145326", USA Network
-https://by.tn/nBk8
-
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/dash/SCTV15_HD/m30_index.m3u8
@@ -136,15 +133,13 @@ https://iplogger.com/215pb4.m3u8
 
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
-https://s.net.vn/jAU6
+#https://s.net.vn/jAU6
 
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png", Canal+ 2
-https://s.net.vn/dV8V
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cz682u1628519810.png", Match Futbol 1
-https://by.tn/matchfubol1
+#https://by.tn/matchfubol1
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/am4ot71628519853.png", Match Futbol 2
-https://s.net.vn/1M7Y
+#https://s.net.vn/1M7Y
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 1 Portugal HD
 http://idlib.link:2082/sp2347890/6687239548/1480
@@ -174,20 +169,20 @@ http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106357
 https://s.net.vn/TFR4
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 FHD
-https://s.net.vn/1z9k
+#https://s.net.vn/1z9k
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://premiumvns.com/wp-content/uploads/2021/11/sport-tv.png.webp", Sport TV4
-https://by.tn/Sport-TV4
+#https://by.tn/Sport-TV4
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Sony Ten 2
-https://s.net.vn/sonyten2
+#https://s.net.vn/sonyten2
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Sony Ten 2 (Dự phòng)
-http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/517764
+#http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/517764
 
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD 
-https://s.net.vn/sEWe
+#https://s.net.vn/sEWe
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD (Dự phòng)
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/497615
