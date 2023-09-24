@@ -144,21 +144,27 @@ https://iplogger.com/215pb4.m3u8
 #https://s.net.vn/1M7Y
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 1 Portugal FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://idlib.link:2082/sp2347890/6687239548/1480
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 2 Portugal FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://idlib.link:2082/sp2347890/6687239548/1124
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 3 Portugal FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://idlib.link:2082/sp2347890/6687239548/3699
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 4 Portugal FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://idlib.link:2082/sp2347890/6687239548/6647
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 5 Portugal FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://idlib.link:2082/sp2347890/6687239548/47781
 
 #EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 6 Portugal FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://idlib.link:2082/sp2347890/6687239548/1475
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 SD
