@@ -146,11 +146,23 @@ https://by.tn/matchfubol1
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/am4ot71628519853.png", Match Futbol 2
 https://s.net.vn/1M7Y
 
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 1 Portugal HD
-https://by.tn/elevensp1-pt
+#EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 1 Portugal HD
+http://idlib.link:2082/sp2347890/6687239548/1480
 
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 2 Portugal HD
-https://by.tn/elevensp2-pt
+#EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 2 Portugal HD
+http://idlib.link:2082/sp2347890/6687239548/1124
+
+#EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 3 Portugal HD
+http://idlib.link:2082/sp2347890/6687239548/3699
+
+#EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 4 Portugal HD
+http://idlib.link:2082/sp2347890/6687239548/6647
+
+#EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 5 Portugal HD
+http://idlib.link:2082/sp2347890/6687239548/47781
+
+#EXTINF:-1 group-title="Eleven SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ELEVEN_SPORTS_Logo.svg/2560px-ELEVEN_SPORTS_Logo.svg.png", Eleven SP 6 Portugal HD
+http://idlib.link:2082/sp2347890/6687239548/1475
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 SD
 http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106358
