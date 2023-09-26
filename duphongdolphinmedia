@@ -150,20 +150,8 @@ https://iplogger.com/215pb4.m3u8
 #https://s.net.vn/1M7Y
 
 
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 SD
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1
 http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106358
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 HD
-http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106357
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 HD (dự phòng)
-https://s.net.vn/TFR4
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1 FHD
-#https://s.net.vn/1z9k
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://premiumvns.com/wp-content/uploads/2021/11/sport-tv.png.webp", Sport TV4
-#https://by.tn/Sport-TV4
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Sony Ten 2
 #https://s.net.vn/sonyten2
