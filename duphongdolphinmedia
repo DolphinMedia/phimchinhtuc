@@ -1,10 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://cdn-icons-png.flaticon.com/512/77/77305.png", Dolphin Media
-http://103.172.78.65:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/59/Logo_UEFA_2012.png", Dolphin Media UEFA
+#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace (Tiếng Việt) 
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-
 
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT
 http://103.172.78.65:8080/hls/0/stream.m3u8
