@@ -9,6 +9,9 @@ https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace | LINK 2 FHD (SportTV2)
 http://50.7.137.106:8080/SPORT_TV2/index.m3u8?token=test
 
+#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace | LINK 2 HD (SportTV2)
+http://103.172.78.65:8080/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="Dolphin x B4TV" tvg-logo="http://103.195.238.135:8080/logo", B4CONNECT
 http://103.172.78.65:8080/hls/0/stream.m3u8
 
