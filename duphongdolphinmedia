@@ -118,8 +118,21 @@ https://iplogger.com/215pb4.m3u8
 #https://s.net.vn/1M7Y
 
 
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://www.seekpng.com/png/detail/357-3578768_sport-tv-1-hd.png", Sport TV1
-http://onrev.xyz:80/SPIDER_V3lZdQ/tcl9RvmNcq/106358
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png", Sport TV1
+http://50.7.137.106:8080/SPORT_TV1/index.m3u8?token=test
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png", Sport TV2
+http://50.7.137.106:8080/SPORT_TV2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png", Sport TV3
+http://50.7.137.106:8080/SPORT_TV3/index.m3u8?token=test
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-4-453.png", Sport TV4
+http://50.7.137.106:8080/SPORT_TV4/index.m3u8?token=test
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://www.sportdekho.net/wp-content/uploads/2022/10/sport-tv5.png", Sport TV5
+http://50.7.137.106:8080/SPORT_TV5/index.m3u8?token=test
+
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Sony Ten 2
 #https://s.net.vn/sonyten2
