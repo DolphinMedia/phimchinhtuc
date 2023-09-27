@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace | LINK 1 FHD(Tiếng Việt)
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-
-#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace | LINK 1 HD (Tiếng Việt)
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-
-#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace | LINK 2 FHD (SportTV2)
-http://50.7.137.106:8080/SPORT_TV2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Carabao Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png", Manchester United vs Crystal Palace | LINK 2 HD (SportTV2)
-http://103.172.78.65:8080/hls/0/stream.m3u8
-
 #EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 1
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
 
