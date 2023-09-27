@@ -27,9 +27,6 @@ http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496633
 #EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest?cb=20171123164013", Eurosport 2 France 4K
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/522219
 
-#EXTINF:-1 group-title="Chùm kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/HTV9_%282015-nay%29.png/revision/latest/scale-to-width-down/1200?cb=20220410163235&path-prefix=vi", HTV9
-https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
-
 #EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://yt3.googleusercontent.com/G6y6Uwh7ES_Hcy6QVszC_m8AAJGOa4inVPR8sg8F3tzd32tPBFGk3K-cX4695UQK1DGbkd5bhCI=s900-c-k-c0x00ffffff-no-rj", Dolphin SP1
 https://gemootest.s3.us-east-2.amazonaws.com/s/res/560545709738737664/534f5cde8a5a5e973fe43da537afa1c6.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20230913%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20230913T113002Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=bfe02eee9398b7a95bc87be09d24d7585cfe13c4a6b879a0a92c052b12930bae
 #EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/800px-VTV1_logo_2013_final.svg.png", VTV1
