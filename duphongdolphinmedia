@@ -27,10 +27,6 @@ http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496633
 #EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest?cb=20171123164013", Eurosport 2 France 4K
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/522219
 
-#EXTINF:-1 group-title="Chùm kênh 90P" tvg-logo="https://bongda.90phut4.xyz/images/logo-90.png", 90Phut TV 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://179720687.global.cdnfastest.com/live/sd-l7oqdeho6zvlr51/chunklist_w188356760.m3u8
-
 #EXTINF:-1 group-title="Chùm kênh HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/HTV9_%282015-nay%29.png/revision/latest/scale-to-width-down/1200?cb=20220410163235&path-prefix=vi", HTV9
 https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
