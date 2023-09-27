@@ -89,7 +89,7 @@ https://live-ali2.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fp
 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
+https://iplogger.com/21Hpb4.m3u8
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
 #https://s.net.vn/jAU6
