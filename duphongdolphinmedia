@@ -75,10 +75,6 @@ https://live2onsport.vtvcab.vn/dash/SCTV15_HD/m30_index.m3u8
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab18-on-sports-news/dvr-${start}-${offset}.m3u8", ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://livecdn.khanggtivi.xyz/getplay/vieon/d75851e58d71b213090ae9580f57c996/1691304728819/livetv/on-sports-news/playlist.m3u8
-
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/21kwb4.m3u8
@@ -91,7 +87,7 @@ https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-5M.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News 50FPS
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
 
