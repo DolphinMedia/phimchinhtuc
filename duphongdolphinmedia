@@ -2,6 +2,22 @@
 #EXTINF:-1 group-title="CHÙM KÊNH TENNIS" tvg-logo="https://storage.allsportdb.com/orig/event/5d3b2cca-7d11-4392-af2f-e035a51f376c", ATP500 China Open
 https://obevcimanyd179314182.thapcam.link/live/may4/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="BBC One" group-title="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC ONE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hqth.me/BBCDOLPHIN
+
+#EXTINF:-1 tvg-id="BBC Two" group-title="BBC" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_two/service-c8dc509aa1.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC TWO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hqth.me/BBCDOLPHIN2
+
+#EXTINF:-1 tvg-id="BBC One" group-title="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC ONE (phụ)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/507878
+
+#EXTINF:-1 tvg-id="BBC Two" group-title="BBC" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_two/service-c8dc509aa1.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC TWO (phụ)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/507880
+
 #EXTINF:-1 group-title="CHÙM KÊNH ARENA" tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg", ARENA Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
@@ -84,19 +100,19 @@ https://live2onsport.vtvcab.vn/dash/SCTV15_HD/m30_index.m3u8
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
 
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports HD
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Chùm kênh ON" tvg-logo="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/21kwb4.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Golf HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Golf HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-5M.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports News HD
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Chùm kênh ON" tvg-logo="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports News HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/21Hpb4.m3u8
 
