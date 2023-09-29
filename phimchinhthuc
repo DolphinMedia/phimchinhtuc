@@ -2846,14 +2846,16 @@ https://1080.opstream4.com/20230820/46677_06f288f1/3000k/hls/mixed.m3u8
 https://hdbo.opstream5.com/20230903/35031_2fe90f78/index.m3u8
 
 #EXTINF:-1 group-title="One Piece (Luffy) (1999)" tvg-logo="https://img.ophim8.cc/uploads/movies/one-piece-thumb.jpg", One Piece (Luffy) - Tập 1075
-https://hdbo.opstream5.com/20230911/35092_d5814b1a/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hdbo.opstream5.com/20230911/35092_d5814b1a/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="One Piece (Luffy) (1999)" tvg-logo="https://img.ophim8.cc/uploads/movies/one-piece-thumb.jpg", One Piece (Luffy) - Tập 1076
-https://hdbo.opstream5.com/20230917/35120_c54de3d9/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hdbo.opstream5.com/20230917/35120_c54de3d9/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="One Piece (Luffy) (1999)" tvg-logo="https://img.ophim8.cc/uploads/movies/one-piece-thumb.jpg", One Piece (Luffy) - Tập 1077
-https://hdbo.opstream5.com/20230924/35147_2abcde37/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hdbo.opstream5.com/20230924/35147_2abcde37/3000k/hls/mixed.m3u8
 #EXTM3U
 
 #EXTINF:-1 group-title="Oshi No Ko" tvg-logo="https://img.ophim8.cc/uploads/movies/dua-con-cua-than-tuong-thumb.jpg", Oshi No Ko Tập 1
