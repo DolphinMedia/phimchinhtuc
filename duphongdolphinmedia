@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="B4CONNECT" tvg-logo="https://yt3.googleusercontent.com/32ANbZW9pzYjI1jILBuR1PxTnVPNl3kycaWb_Invu-ie25Cwbso3kpoEd7oI437HZkn1fH8rJw=s900-c-k-c0x00ffffff-no-rj" B4CONNECT
+http://103.172.78.65:8080/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="CHÙM KÊNH TENNIS" tvg-logo="https://storage.allsportdb.com/orig/event/5d3b2cca-7d11-4392-af2f-e035a51f376c", ATP500 China Open
 https://obevcimanyd179314182.thapcam.link/live/may4/chunklist.m3u8
 
