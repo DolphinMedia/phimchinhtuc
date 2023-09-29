@@ -156,41 +156,69 @@ http://50.7.137.106:8080/SPORT_TV5/index.m3u8?token=test
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/497615
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/96.png" group-logo="https://cdn.antmediatv.xyz/group/K+.png", K+CINE HD - MyK+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=HongPhongLon
+
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BT2hPP8BqerMOuza6TOqNA","kid":"TX/UElw34EziLkQrRdxhfA"},{"kty":"oct","k":"iyvk0wmGii5cLLpsNNx8fw","kid":"lcPUElw34EziLkQrRdxhfA"},{"kty":"oct","k":"dLd1LVIU4YEqj3kvGoxcKg","kid":"oscYQ1w34EziLkQrRdxhfA"},{"kty":"oct","k":"v7MOsFyXJDmXZUNEzouXrA","kid":"jtQYW6s34EziLkQrRdxhfA"}],"type":"temporary"}
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MLkJByBGKX_LAuLoG6hsnQ","k":"tBGJr2tlyxA-y-HnLVvcDw"},{"kty":"oct","kid":"eP0JByBGKX_LAuLoG6hsnQ","k":"-UDoLTA6JZIdztyUYldzPw"},{"kty":"oct","kid":"hQFNOCBGKX_LAuLoG6hsnQ","k":"0Gv32aL_KPORXhaelqxJdg"},{"kty":"oct","kid":"cQ5NUG9GKX_LAuLoG6hsnQ","k":"oXqJxuFWzbe6ps8V9hermA"}],"type":"temporary"}
+
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 HD - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=HongPhongLon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DpPMIxPZuWn+NjPIEDiKhA","kid":"XWfOesB6k0vuhC5YwpTiIQ"},{"kty":"oct","k":"iMoPeVJX1ei14QiWNs9bDw","kid":"pavOesB6k0vuhC5YwpTiIQ"},{"kty":"oct","k":"cUEQhs5+DSQZFcN81gNREg","kid":"sq8Sq8B6k0vuhC5YwpTiIQ"},{"kty":"oct","k":"LC+IzI0L/00McuHqNn+NLg","kid":"nrwSww96k0vuhC5YwpTiIQ"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=HongPhongLon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YBEe+4WYBtlkwxJaLCnr3A","kid":"8u3K+LS6beYWTovXPoGXeg"},{"kty":"oct","k":"BsJ6h+WgH1uXkXwhVLYc/A","kid":"OjHK+LS6beYWTovXPoGXeg"},{"kty":"oct","k":"+s8efSTDosGDTyPwKIXE+Q","kid":"RzUOKbS6beYWTovXPoGXeg"},{"kty":"oct","k":"GN0mxMwTcZJR+KWJpEeDFw","kid":"M0IOQQO6beYWTovXPoGXeg"}],"type":"temporary"}
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+LIFE HD - MyK+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=HongPhongLon
+
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NHXHQ7Srwy+CW65csQaZIQ","kid":"U0s1/nLYcHR9SMLK4ijVgA"},{"kty":"oct","k":"lNF2jDDeuhIMcBlCLZJz5w","kid":"m481/nLYcHR9SMLK4ijVgA"},{"kty":"oct","k":"eCd/WelSUgqDXpmpcwnhtw","kid":"qJN5L3LYcHR9SMLK4ijVgA"},{"kty":"oct","k":"3YrjcOjGnTYmlrFvXVMqDQ","kid":"lKB5R8HYcHR9SMLK4ijVgA"}],"type":"temporary"}
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ql/OMEO2c/dTWgDZhkih8w","kid":"SNi80UYKV5OiBH1zfohqWA"},{"kty":"oct","k":"M1HEm1gMuoDuuz7bI4YrAA","kid":"kBy80UYKV5OiBH1zfohqWA"},{"kty":"oct","k":"9cAcFokN5OW9bfk9RrQbNQ","kid":"nSAAAkYKV5OiBH1zfohqWA"},{"kty":"oct","k":"iCOP2D1KU/FmoZ+ezwgXxw","kid":"iS0AGpUKV5OiBH1zfohqWA"}],"type":"temporary"}
+
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS HD - MyK+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 HD - MyK+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=HongPhongLon
+
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bfCFPt4XPWcjft+CpoDBlw","kid":"/+zd0aXdxnZUCbWeWwmszw"},{"kty":"oct","k":"DZ9TuzIsilLKsUfj00w0dA","kid":"RzDd0aXdxnZUCbWeWwmszw"},{"kty":"oct","k":"G+NZUFmFc0d/abbA6Bo79A","kid":"VDQhAqXdxnZUCbWeWwmszw"},{"kty":"oct","k":"Hl1C7CSS15CDq3oQLq6EAw","kid":"QEEhGvTdxnZUCbWeWwmszw"}],"type":"temporary"}
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sU1Fq+Zjt7GxznYr42BbXg","kid":"SqrhGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"SIk49PbP2kgOr5+Ar1/nXQ","kid":"ku7hGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"hDLy8qU2+tavZ2eBFlYUtQ","kid":"n/IlTAI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"gjH0YoemcHET8KCT764slg","kid":"i/8lZFE/QtsUlgTkb+qJBw"}],"type":"temporary"}
+
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ljf99Xa20TNG+l5eyiJqFA","kid":"2CMiUnn59ugsolg9i93l+g"},{"kty":"oct","k":"3T28AZtkziO+PekyQ01nJw","kid":"IGciUnn59ugsolg9i93l+g"},{"kty":"oct","k":"yVxTcnfwWrYQu0mri9V/uQ","kid":"LWtmg3n59ugsolg9i93l+g"},{"kty":"oct","k":"q8/1BfEQe3H9N7BKy31QiQ","kid":"GXhmm8j59ugsolg9i93l+g"}],"type":"temporary"}
+
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS HD - MyK+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#EXTVLCOPT:http-user-agent=ANTmedia/20.07
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HyrYYAeDef24aZMiT8CLSQ","kid":"c/xxYCC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"rtUGgCKdxgCmM0aWjILVuQ","kid":"u0BxYCC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"HckZO2rvuU3uIP81M8HLeQ","kid":"yES1kSC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"4gyETqkPalZ3f0etddlvDQ","kid":"tFG1qW+6ka0I68mUCyIgAQ"}],"type":"temporary"}
+
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
