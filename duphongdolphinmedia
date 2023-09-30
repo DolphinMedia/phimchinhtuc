@@ -6,8 +6,11 @@ https://live.ixvd.net/hls/0/stream.m3u8
 #EXTINF:-1 group-title="B4TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png", B4CONNECT
 http://103.172.78.65:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", Sky Sports Main Event
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/557091
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", Sky Sports UK Main Event
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508252
+
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Premier league
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/558945
 
 #EXTINF:-1 tvg-id="BBC One" group-title="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC ONE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
