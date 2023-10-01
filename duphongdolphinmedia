@@ -167,13 +167,6 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/21kwb4.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD TV360
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LzgM2+8D+ZqussM+I867aA", "kid": "Eyro7VTeQKyTKaarAlARxg"}], "type": "temporary"}
-https://tiemnhazunn.click/tv360/tv360.php?id=174
-
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD 50FPS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/onplus/BONGDA_HD/m30_index.m3u8
@@ -185,6 +178,10 @@ https://live-ali2.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fp
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="Chùm kênh ON" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ 50FPS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live2onsport.vtvcab.vn/onplus/HAY_TV/m30_index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News 50FPS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
 
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
 #https://s.net.vn/jAU6
