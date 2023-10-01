@@ -244,6 +244,20 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/cIc
 
-#EXTINF:-1 group-title="TEST CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png", test 1
+#EXTINF:-1 group-title="Astro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Sport 1 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.45.68.47/gy/gy649/xsj.php?id=super-sports1
+
+#EXTINF:-1 group-title="Astro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.45.68.47/gy/gy649/xsj.php?id=super-sports2
+
+#EXTINF:-1 group-title="Astro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Sport 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.45.68.47/gy/gy649/xsj.php?id=super-sports3
+
+#EXTINF:-1 group-title="Astro Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Sport 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://103.45.68.47/gy/gy649/xsj.php?id=super-sports4
+
+
