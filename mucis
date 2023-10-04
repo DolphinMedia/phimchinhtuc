@@ -1,1 +1,3 @@
-
+#EXTINF:-1 group-title="TEST CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png", test 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ff1.fvv.one/f7dc923f11a5de0ea333e6d07bedcc56-51ac782bc39fb00cee210d92f2fdfe766b45ecdec29d00f8f6c4ba2d252cb8293c008eb5477d3a1eb19739ba97a9dff5bca1a8eba830d9abb22e8123c87dc11a6cc6024dc6bf.m3u8
