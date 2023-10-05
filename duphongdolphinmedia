@@ -3,25 +3,9 @@
 #EXTINF:-1 group-title="Giới thiệu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg", Intro
 https://live.ixvd.net/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png", ATP500 CHINA OPEN LIVE 1 (FHD) Chính
+#EXTINF:-1 group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png", 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522225
 
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png", ATP500 CHINA OPEN LIVE 1 (FHD) Phụ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/518248
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png", ATP500 CHINA OPEN LIVE 2 (FHD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/518248
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png", ATP500 CHINA OPEN LIVE 3 (FHD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/495278
-
-#EXTINF:-1 group-title="Tennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png", ATP500 CHINA OPEN LIVE 4 (HD)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/545043
 
 #EXTINF:-1 group-title="B4TV" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", B4CONNECT
 http://103.172.78.65:8080/hls/0/stream.m3u8
@@ -142,8 +126,7 @@ http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418166
 #EXTINF:-1 group-title="Dolphin Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png",  Dolphin Sports VN 1
 https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 #EXTINF:-1 group-title="Dolphin Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png",  Dolphin Sports VN 2
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8
-
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
