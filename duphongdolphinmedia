@@ -6,6 +6,10 @@ https://live.ixvd.net/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://hqth.me/olympialogo", LIVE 4K Chung kết Đường lên đỉnh Olympia
 https://hqth.me/olympialive
 
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/NBA-Logo.png", Los Angeles Lakers VS Golden State Warriors | NBA TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hqth.me/9Xti
+
 #EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509141
