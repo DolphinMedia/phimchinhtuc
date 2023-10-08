@@ -3,13 +3,6 @@
 #EXTINF:-1 group-title="Giới thiệu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg", Intro
 https://live.ixvd.net/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://hqth.me/olympialogo", LIVE 4K Chung kết Đường lên đỉnh Olympia
-https://hqth.me/olympialive
-
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/NBA-Logo.png", Los Angeles Lakers VS Golden State Warriors | NBA TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/9Xti
-
 #EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509141
@@ -362,8 +355,25 @@ https://hqth.me/09V3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/kJGo9
 
-#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", Chưa có trận đấu
+#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", BRIGHTON HOVE ALBION vs LIVERPOOL | 20:00
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", WEST HAM UNITED vs NEWCASTLE UNITED | 20:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", WOLVES vs ASTON VILLA | 20:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", ARSENAL vs MAN CITY (4K) | 22:30
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hqth.me/N5lTv
+
+#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", ARSENAL vs MAN CITY (FHD) | 22:30
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hqth.me/B6Ah
 
 #EXTINF:-1 group-title="UEFA Champions League MATCH" tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/1038640/ucl_sp_hero_landscape_0.jpg", 	Atlético Madrid vs Feyenoord | UEFA Champions League
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
