@@ -101,19 +101,33 @@ http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508248
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Tennis 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:14. Deutschland
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522206
 
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Premier league FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:14. Deutschland
 https://hqth.me/uPLEsi
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Premier league HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:14. Deutschland
 https://hqth.me/homs3g
+
+#EXTINF:-1 group-title="Bóng Đá Nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/1200px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png", Manchester United (w) vs Paris Saint Germain (w)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:14. Deutschland
+http://evolved.host:8080/gerald325i@yahoo.com/VQDkQ1G5xt/508219
+
+#EXTINF:-1 group-title="kÊNH QUẢNG BÁ" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png", MUTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:14. Deutschland
+http://evolved.host:8080/gerald325i@yahoo.com/VQDkQ1G5xt/440395
 
 #EXTINF:-1 tvg-id="BBC One" group-title="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC ONE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 https://hqth.me/BBCDOLPHIN
 
 #EXTINF:-1 tvg-id="BBC Two" group-title="BBC" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_two/service-c8dc509aa1.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC TWO
@@ -268,75 +282,6 @@ http://50.7.137.106:8080/SPORT_TV5/index.m3u8?token=test
 #EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD (Dự phòng)
 http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/497615
 
-#EXTM3U
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/96.png" group-logo="https://cdn.antmediatv.xyz/group/K+.png", K+CINE HD - MyK+
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MLkJByBGKX_LAuLoG6hsnQ","k":"tBGJr2tlyxA-y-HnLVvcDw"},{"kty":"oct","kid":"eP0JByBGKX_LAuLoG6hsnQ","k":"-UDoLTA6JZIdztyUYldzPw"},{"kty":"oct","kid":"hQFNOCBGKX_LAuLoG6hsnQ","k":"0Gv32aL_KPORXhaelqxJdg"},{"kty":"oct","kid":"cQ5NUG9GKX_LAuLoG6hsnQ","k":"oXqJxuFWzbe6ps8V9hermA"}],"type":"temporary"}
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+LIFE HD - MyK+
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ql/OMEO2c/dTWgDZhkih8w","kid":"SNi80UYKV5OiBH1zfohqWA"},{"kty":"oct","k":"M1HEm1gMuoDuuz7bI4YrAA","kid":"kBy80UYKV5OiBH1zfohqWA"},{"kty":"oct","k":"9cAcFokN5OW9bfk9RrQbNQ","kid":"nSAAAkYKV5OiBH1zfohqWA"},{"kty":"oct","k":"iCOP2D1KU/FmoZ+ezwgXxw","kid":"iS0AGpUKV5OiBH1zfohqWA"}],"type":"temporary"}
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 HD - MyK+
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sU1Fq+Zjt7GxznYr42BbXg","kid":"SqrhGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"SIk49PbP2kgOr5+Ar1/nXQ","kid":"ku7hGwI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"hDLy8qU2+tavZ2eBFlYUtQ","kid":"n/IlTAI/QtsUlgTkb+qJBw"},{"kty":"oct","k":"gjH0YoemcHET8KCT764slg","kid":"i/8lZFE/QtsUlgTkb+qJBw"}],"type":"temporary"}
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ljf99Xa20TNG+l5eyiJqFA","kid":"2CMiUnn59ugsolg9i93l+g"},{"kty":"oct","k":"3T28AZtkziO+PekyQ01nJw","kid":"IGciUnn59ugsolg9i93l+g"},{"kty":"oct","k":"yVxTcnfwWrYQu0mri9V/uQ","kid":"LWtmg3n59ugsolg9i93l+g"},{"kty":"oct","k":"q8/1BfEQe3H9N7BKy31QiQ","kid":"GXhmm8j59ugsolg9i93l+g"}],"type":"temporary"}
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS HD - MyK+
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#EXTVLCOPT:http-user-agent=ANTmedia/20.07
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HyrYYAeDef24aZMiT8CLSQ","kid":"c/xxYCC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"rtUGgCKdxgCmM0aWjILVuQ","kid":"u0BxYCC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"HckZO2rvuU3uIP81M8HLeQ","kid":"yES1kSC6ka0I68mUCyIgAQ"},{"kty":"oct","k":"4gyETqkPalZ3f0etddlvDQ","kid":"tFG1qW+6ka0I68mUCyIgAQ"}],"type":"temporary"}
-
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
- 
 
 #EXTINF:-1 group-title="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN USA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
