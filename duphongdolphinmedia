@@ -3,23 +3,12 @@
 #EXTINF:-1 group-title="Giới thiệu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg", Intro
 https://live.ixvd.net/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Hà Lan vs Pháp BLV : LUFFY (01:45)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.172.78.65:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Netherlands vs France (01:45)
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Italy vs Malta (01:45)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/518246
 
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Ireland Republic vs Greece (01:45)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/522227
-
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Austria vs Belgium (01:45)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/522225
-
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Portugal vs Slovakia (01:45)
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Denmark vs Kazakhstan (01:45)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/522228
 
