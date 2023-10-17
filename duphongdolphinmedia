@@ -3,14 +3,21 @@
 #EXTINF:-1 group-title="Giới thiệu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg", Intro
 https://live.ixvd.net/hls/0/stream.m3u8
 
+#EXTINF:-1 group-title="FIFA DAYS" tvg-logo="https://pngimg.com/d/fifa_PNG7.png", Hàn Quốc vs Việt Nam (18:00) VTV5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?timestamp=1697560032&token=4675fa18830301caa17f43ea30c00863&uid=26362630
+
+#EXTINF:-1 group-title="FIFA DAYS" tvg-logo="https://pngimg.com/d/fifa_PNG7.png", Hàn Quốc vs Việt Nam (18:00) FPT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+livecdn.fptplay.net/MTU0MDU3Nzh8dGhldGhhbzE0X3ZobHMuc21pbHx2bnB0fDE2OTc1Mzg2MTd8MjAzLjIxMC4xODEuM3xhNzM0NjE4NmI2NmM2NjRiNzA3NDJmZDM1MTYwYWIyOA/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Italy vs Malta (01:45)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/518246
+#http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/518246
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", Denmark vs Kazakhstan (01:45)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/522228
+#http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/522228
 
 #EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
