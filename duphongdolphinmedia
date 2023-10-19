@@ -3,29 +3,9 @@
 #EXTINF:-1 group-title="Giới thiệu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg", Intro
 https://live.ixvd.net/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="FIFA DAYS" tvg-logo="https://pngimg.com/d/fifa_PNG7.png", Uruguay vs Brazil (07:00)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495278
-
-#EXTINF:-1 group-title="FIFA DAYS" tvg-logo="https://pngimg.com/d/fifa_PNG7.png", Peru vs Argentina (09:00)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/496013
-
-#EXTINF:-1 group-title="FIFA DAYS" tvg-logo="https://pngimg.com/d/fifa_PNG7.png", Peru vs Argentina (09:00) Link 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495280
-
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", England vs Italy (01:45)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495278
-
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", San Marino vs Denmark (01:45)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/522228
-
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", San Marino vs Denmark (01:45) Link 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495275
+#http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495275
 
 #EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -136,9 +116,6 @@ https://hqth.me/uPLEsi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hqth.me/homs3g
 
-#EXTINF:-1 group-title="Bóng Đá Nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UEFA_Women%27s_Champions_League_logo_%282021%29.svg/1200px-UEFA_Women%27s_Champions_League_logo_%282021%29.svg.png", Manchester United (w) vs Paris Saint Germain (w)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/gerald325i@yahoo.com/VQDkQ1G5xt/508219
 
 #EXTINF:-1 group-title="kÊNH QUẢNG BÁ" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png", MUTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -343,94 +320,3 @@ https://hqth.me/B6Ah
 #EXTINF:-1 group-title="UEFA Champions League MATCH" tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w1920-q80/marquee/1038640/ucl_sp_hero_landscape_0.jpg", 	Atlético Madrid vs Feyenoord | UEFA Champions League
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://hqth.me/ttRowaY
-
-
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 3
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=pladio
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-1
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-2
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-3
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-4
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-5
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-6
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-7
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-8
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-9
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 10
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-10
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 11
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-11
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 12
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-12
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 13
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-13
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 14
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-14
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 15
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-15
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 16
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-16
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 17
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-17
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 18
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-18
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 19
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-19
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 20
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-20
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 21
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-21
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 22
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-22
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 23
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-23
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 24
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-24
-#EXTINF:-1 group-title="FPT PLAY" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 25
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-25
