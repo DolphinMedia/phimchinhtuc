@@ -9,7 +9,8 @@ https://live.ixvd.net/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="Luffy Media" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb0ENMZ8AjGbTOQjoKbPEwZ90sMeAExhL-7lf64=s900-c-k-c0x00ffffff-no-rj", Luffy Connect
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/Mvph
+https://s.net.vn/jaj1
+
 
 #EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
