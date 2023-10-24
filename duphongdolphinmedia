@@ -89,8 +89,20 @@ http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497567
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497568
 
 
-#EXTINF:-1 group-title="B4TV" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", B4CONNECT
-http://103.172.78.65:8080/hls/0/stream.m3u8
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Manchester United vs København | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522193
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Sevilla vs Arsenal | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522192
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Union Berlin vs Napoli | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508189
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Sporting Braga vs Real Madrid | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", Sky Sports UK Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -304,8 +316,8 @@ https://hqth.me/kJGo9
 
 #EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", Chelsea vs Arsenal | 23:30
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/johnbuler@comcast.net/BtYiSbmLJY/508252
+#http://evolved.host:8080/johnbuler@comcast.net/BtYiSbmLJY/508252
 
 #EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", Sheffield United vs Manchester United | 02:00
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/johnbuler@comcast.net/BtYiSbmLJY/558945
+#http://evolved.host:8080/johnbuler@comcast.net/BtYiSbmLJY/558945
