@@ -89,20 +89,33 @@ http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497567
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497568
 
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Manchester United vs København | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Barcelona VS Shakhtar Donetsk | 23:45
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522193
+http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508184
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Sevilla vs Arsenal | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Young Boys vs Manchester City | 02:00
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522192
+http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508184
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Union Berlin vs Napoli | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", RB Leipzig vs Crvena Zvezda | 02:00
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508189
+http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508192
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Sporting Braga vs Real Madrid | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Celtic vs Atlético Madrid | 02:00
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508187
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", PSG vs Milan | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508189
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Newcastle United vs Borussia Dortmund (FHD) | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508186
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Newcastle United vs Borussia Dortmund (4K) | 02:00
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://7pal.short.gy/BTUltimate
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", Sky Sports UK Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
