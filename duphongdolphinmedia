@@ -15,6 +15,9 @@ https://static.vecteezy.com/system/resources/thumbnails/013/007/122/original/bac
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.vthanhtivi.pw:8080/hls/0/stream.m3u8
 
+#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD (sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vthanhtivi.pw:5000/live/index.m3u8
 
 #EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
