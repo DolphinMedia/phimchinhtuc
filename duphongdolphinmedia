@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", Tham gia group Zalo Okita Entertainment
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vthanhtivi.pw:5000/live/index.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", Okita Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
