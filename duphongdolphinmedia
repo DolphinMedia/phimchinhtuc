@@ -35,7 +35,3 @@ https://7pal.short.gy/11sports1
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/250?cb=20230210154620", Sky Sports Main Event UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=474653&extension=ts&play_token=zfyMjFc9iA
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png", Now Sport 1 UHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://dmtn.tv:8080/play/live.php?mac=00:1A:79:5a:89:6c&stream=201855&extension=ts&play_token=rbeIopOJIB
