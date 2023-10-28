@@ -11,6 +11,10 @@ https://live.ixvd.net/hls/0/stream.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/VSportUHD
 
+#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", V Sport UHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://7pal.short.gy/VSportUHD
+
 #EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.vthanhtivi.pw:8080/hls/0/stream.m3u8
@@ -19,114 +23,37 @@ http://stream.vthanhtivi.pw:8080/hls/0/stream.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vthanhtivi.pw:5000/live/index.m3u8
 
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv1)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509141
 
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv2)
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/418188
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL (sv3)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/94128
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL International
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497562
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", (FLOW) Tennis Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/435384
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497563
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497569
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497570
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497571
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497572
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497573
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497574
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497575
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497576
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 10
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497564
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 11
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497565
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 12
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497566
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 13
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497567
-
-#EXTINF:-1 group-title="Shanghai Masters" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/f/f8/Logo_Masters_Shanghai.svg/1200px-Logo_Masters_Shanghai.svg.png", TENNIS CHANNEL PLUS 14
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/497568
 
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Barcelona VS Shakhtar Donetsk | 23:45
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508184
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Young Boys vs Manchester City | 02:00
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508184
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", RB Leipzig vs Crvena Zvezda | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508192
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Celtic vs Atlético Madrid | 02:00
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508187
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", PSG vs Milan | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508189
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Newcastle United vs Borussia Dortmund (FHD) | 02:00
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508186
 
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", Newcastle United vs Borussia Dortmund (4K) | 02:00
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/508198
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png",
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", Sky Sports UK Main Event
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508252
+
 
 #EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports UK Premier league
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
