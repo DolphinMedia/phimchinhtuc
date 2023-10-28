@@ -15,10 +15,6 @@ https://7pal.short.gy/VSportUHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/496577
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.avcaesar.com/src/news/00/00/94/07/logobeinsports4k.jpg", Bein Sports UHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://7pal.short.gy/bein-uhd
-
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", Okita Entertainment x VthanhTivi FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.vthanhtivi.pw:8080/hls/0/stream.m3u8
