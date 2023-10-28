@@ -7,9 +7,9 @@ https://live.ixvd.net/hls/0/stream.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495275
 
-#EXTINF:-1 group-title="Okita Entertainment" tvg-logo="https://www.detectiveconanworld.com/wiki/images/thumb/c/c2/Soshi_Okita_Middle.png/356px-Soshi_Okita_Middle.png", Okita Entertainment 4K
+#EXTINF:-1 group-title="Okita Entertainment" tvg-logo="https://www.detectiveconanworld.com/wiki/images/thumb/c/c2/Soshi_Okita_Middle.png/356px-Soshi_Okita_Middle.png", Okita Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://static.vecteezy.com/system/resources/thumbnails/013/007/122/original/background-offline-for-live-streaming-game-streaming-background-free-video.jpg
+https://7pal.short.gy/VSportUHD
 
 #EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
