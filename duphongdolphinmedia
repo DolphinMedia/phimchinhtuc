@@ -1,278 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Rick Roll 24/24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Glasto2023_%28149_of_468%29_%2853009108914%29_%28cropped%29.jpg", Rick Roll 24/24
-https://live.ixvd.net/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b2/Logo_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_ch%C3%A2u_%C3%82u_2024.png", San Marino vs Denmark (01:45) Link 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/495275
-
-#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", Okita Sport UHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", Okita Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/VSportUHD
 
-#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", V Sport UHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", V Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/VSportUHD
 
-#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png", Bein Sports 1 FHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png", Bein Sports 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/496577
 
-#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://www.avcaesar.com/src/news/00/00/94/07/logobeinsports4k.jpg", Bein Sports UHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.avcaesar.com/src/news/00/00/94/07/logobeinsports4k.jpg", Bein Sports UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/bein-uhd
 
-#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.vthanhtivi.pw:8080/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="Okita Entertainment x VthanhTivi" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD (sv2)
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://icon-library.com/images/full-hd-icon/full-hd-icon-28.jpg", Okita Entertainment x VthanhTivi FHD (sv2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vthanhtivi.pw:5000/live/index.m3u8
 
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", V Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://7pal.short.gy/VSportUHD
+ 
 
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event 4K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png", 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://www.fifplay.com/img/public/ucl-logo.png",
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", Sky Sports UK Main Event
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports UK Premier league
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508256
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports UK Premier league 4K
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522190
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports UK Football
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508248
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Tennis 4K
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522206
-
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Premier league FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/uPLEsi
-
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports DE Premier league HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/homs3g
-
-
-#EXTINF:-1 group-title="kÊNH QUẢNG BÁ" tvg-logo="https://assets.manutd.com/AssetPicker/images/0/0/7/70/476872/MUTV-LightBG1515755997863.png", MUTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/gerald325i@yahoo.com/VQDkQ1G5xt/440395
-
-
-#EXTINF:-1 tvg-id="BBC One" group-title="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC ONE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
-https://hqth.me/BBCDOLPHIN
-
-#EXTINF:-1 tvg-id="BBC Two" group-title="BBC" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_two/service-c8dc509aa1.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC TWO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/BBCDOLPHIN2
-
-#EXTINF:-1 tvg-id="BBC One" group-title="BBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC ONE (phụ)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/507878
-
-#EXTINF:-1 tvg-id="BBC Two" group-title="BBC" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_two/service-c8dc509aa1.svg" group-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg", BBC TWO (phụ)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/507880
-
-
-#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 France
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496632
-
-#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png", Eurosport 1 France 4K
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/522218
-
-#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest?cb=20171123164013", Eurosport 2 France
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/496633
-
-#EXTINF:-1 group-title="CHÙM KÊNH Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest?cb=20171123164013", Eurosport 2 France 4K
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/522219
-
-#EXTINF:-1 group-title="Chùm kênh Dolphin" tvg-logo="https://yt3.googleusercontent.com/G6y6Uwh7ES_Hcy6QVszC_m8AAJGOa4inVPR8sg8F3tzd32tPBFGk3K-cX4695UQK1DGbkd5bhCI=s900-c-k-c0x00ffffff-no-rj", Dolphin SP1
-https://gemootest.s3.us-east-2.amazonaws.com/s/res/560545709738737664/534f5cde8a5a5e973fe43da537afa1c6.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20230913%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20230913T113002Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=bfe02eee9398b7a95bc87be09d24d7585cfe13c4a6b879a0a92c052b12930bae
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/800px-VTV1_logo_2013_final.svg.png", VTV1
-#http://103.172.78.65:8081/vmt/vtv1
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/VTV2_logo_2013_final.svg", VTV2
-#http://103.172.78.65:8081/vmt/vtv2
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png", VTV3
-#http://103.172.78.65:8081/vmt/vtv3
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/VTV4_logo_2013_final.svg", VTV4
-#https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5
-#http://103.172.78.65:8081/vmt/vtv5
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png", VTV5 Tây Nguyên
-#https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
-
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/1200px-Vtv5tnb_logo.svg.png", VTV5 Tây Nam Bộ
-http://103.172.78.65:8081/vmt/vtv5tnb
-
-#EXTINF:-1 group-title="Truyền hình phổ thông" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/640px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png", VTV Cần Thơ
-http://103.172.78.65:8081/vmt/vtvcantho
-
-#EXTINF:-1 group-title="Truyền hình địa phương" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png", Hà Nam HD
-https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
-
-#EXTINF:-1 group-title="Truyền hình địa phương" tvg-logo="https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png", Bạc Liêu HD
-https://tv.thbl.vn/live/tv/tv.m3u8
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/417988
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/KIDY_10_Fox_San_Angelo_logo.png", FOX (west)
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/424637
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png", FOX sv2
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509102
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://exstreamist.com/wp-content/uploads/2017/04/Watch-Fox-Business-Network-Online.jpg", FOX BUSINESS
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509103
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://play-lh.googleusercontent.com/uMDC_ZCZXk4i6YfmdiiPfWRBzYKwdpk9pP2gDmg6qkOWBqodlLBdIYPTJTbX8ZxyTA", Fox Deportes
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509175
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_News_Channel_II_%28Print%29.svg/revision/latest?cb=20180503044955", Fox NEWS
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/509104
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png", FOX Sports 1
-http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418178
-
-#EXTINF:-1 group-title="Chùm kênh Fox" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8e/Fox_Sports_2.png/revision/latest/scale-to-width-down/1000?cb=20221214051346&path-prefix=vi", FOX Sports 2
-http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418179
-
-
-#EXTINF:-1 group-title="TyC Sports" tvg-logo="https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q", TyC Sports USA
-http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/418166
-
-#EXTINF:-1 group-title="Dolphin Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png",  Dolphin Sports VN 1
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-#EXTINF:-1 group-title="Dolphin Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/ff/C%C3%BAp_EFL_Carabao.png",  Dolphin Sports VN 2
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/dash/SCTV15_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV LaLiga" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8
-
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Chùm kênh ON" tvg-logo="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Sports HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/21kwb4.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD 50FPS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/BONGDA_HD/m30_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Chùm kênh ON" tvg-logo="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj" catchup="append" catchup-days="2" catchup-source="https://yt3.googleusercontent.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", ON Golf HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live-ali2.tv360.vn/manifest/VTVcab23_Golf_HD_50fps/playlist_Golf-HD-50fps-1080P-5M.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="Chùm kênh ON" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ 50FPS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/onplus/HAY_TV/m30_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News 50FPS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m40_index.m3u8
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://m4sport.hu/wp-content/uploads/sites/10/2016/02/m4sport-hu-logo-2.png", M4 SPORT
-#https://s.net.vn/jAU6
-
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/cz682u1628519810.png", Match Futbol 1
-#https://by.tn/matchfubol1
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/am4ot71628519853.png", Match Futbol 2
-#https://s.net.vn/1M7Y
-
-
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png", Sport TV1
-http://50.7.137.106:8080/SPORT_TV1/index.m3u8?token=test
-
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png", Sport TV2
-http://50.7.137.106:8080/SPORT_TV2/index.m3u8?token=test
-
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png", Sport TV3
-http://50.7.137.106:8080/SPORT_TV3/index.m3u8?token=test
-
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-4-453.png", Sport TV4
-http://50.7.137.106:8080/SPORT_TV4/index.m3u8?token=test
-
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://www.sportdekho.net/wp-content/uploads/2022/10/sport-tv5.png", Sport TV5
-http://50.7.137.106:8080/SPORT_TV5/index.m3u8?token=test
-
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Sony Ten 2
-#https://s.net.vn/sonyten2
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Sony Ten 2 (Dự phòng)
-#http://evolved.host:8080/mrmaxile@yahoo.com/srb5t3wRXp/517764
-
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD 
-#https://s.net.vn/sEWe
-
-#EXTINF:-1 group-title="Kênh thể thao nước ngoài" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png", Astro Supersport 2 HD (Dự phòng)
-http://evolved.host:8080/TERRY03122/6KRjgn8Vfa/497615
-
-
-#EXTINF:-1 group-title="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png", TUDN USA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/cIc
-
-
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=3840&q=75", BeIN Sports FR 1 FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/28m
-
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=3840&q=75", BeIN Sports FR 2 4K
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/09V3
-
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=3840&q=75", BeIN Sports FR 2 FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/kJGo9
-
-#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", Chelsea vs Arsenal | 23:30
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://evolved.host:8080/johnbuler@comcast.net/BtYiSbmLJY/508252
-
-#EXTINF:-1 group-title="Premier League MATCH" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdc37b9c30ec5088e/64d126bf42c4c498c8b99aa0/EPL_Predictions.jpg?auto=webp&format=pjpg&width=3840&quality=60", Sheffield United vs Manchester United | 02:00
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://evolved.host:8080/johnbuler@comcast.net/BtYiSbmLJY/558945
+https://7pal.short.gy/SSMEuhd
