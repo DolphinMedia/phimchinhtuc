@@ -24,7 +24,7 @@ http://vthanhtivi.pw:5000/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.vthanhtivi.pw/hls/0/stream.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event 4K
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/SSMEuhd
 
@@ -32,6 +32,11 @@ https://7pal.short.gy/SSMEuhd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/11sports1
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/250?cb=20230210154620", Sky Sports Main Event UHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/250?cb=20230210154620", Sky Sports Main Event FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=474653&extension=ts&play_token=zfyMjFc9iA
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508252
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", Eleven Sports 1 Bồ Đào Nha FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/495207
+
