@@ -37,3 +37,10 @@ https://7pal.short.gy/11sports1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/495207
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png", Sky Sport F1 UHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png", HUB Premier2 UHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://7pal.short.gy/HubP2uhd
