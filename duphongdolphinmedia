@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", VThanhTivi x Okita
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vthanhtivi.pw:5000/live/index.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", VThanhTivi x Okita (sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://stream.vthanhtivi.pw/hls/0/stream.m3u8
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", Okita Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/VSportUHD
@@ -15,14 +23,6 @@ http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/558945
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png", Bein Sports 1 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/496577
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", VThanhTivi x Okita
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vthanhtivi.pw:5000/live/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", VThanhTivi x Okita (sv2)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://stream.vthanhtivi.pw/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
