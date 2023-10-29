@@ -44,3 +44,64 @@ https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png", HUB Premier2 UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/HubP2uhd
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Nova_Sport_1_2016.svg/revision/latest/scale-to-width-down/250?cb=20200714094309", Nova Sport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.188.188.235/live/novasport1/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/10/Nova_Sport_2HD.png", Nova Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.188.188.235/live/novasport2/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png", Nova Sport 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.188.188.235/live/novasport3/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_Nova_Sport_4_SK.png", Nova Sport 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.188.188.235/live/novasport4/playlist.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png", Sport TV 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://50.7.137.106:8080/SPORT_TV1/index.m3u8?token=test
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png", Sport TV 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://50.7.137.106:8080/SPORT_TV2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png", Sport TV 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://50.7.137.106:8080/SPORT_TV3/index.m3u8?token=test
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png", Sport TV 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://50.7.137.106:8080/SPORT_TV4/index.m3u8?token=test
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png", Sport TV 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://50.7.137.106:8080/SPORT_TV5/index.m3u8?token=test
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png", ARENA SPORTS 1
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png", ARENA SPORTS 2
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="data:image/png;base64,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", ARENA SPORTS 3
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png", ARENA SPORTS 4
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png", ARENA SPORTS 5
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png", ARENA SPORTS 6
+http://185.85.152.220:9901/arenasport6/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
