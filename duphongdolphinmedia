@@ -95,11 +95,23 @@ http://93.155.227.38:90/m3u8/arenasport5.m3u8
 http://185.85.152.220:9901/arenasport6/playlist.m3u8
 
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 1 FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508184
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 1 FHD 50fps
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/485621
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 2 FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508186
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 2 FHD 50fps
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/485622
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 3 FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508187
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 3 FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/485623
 
 
 
