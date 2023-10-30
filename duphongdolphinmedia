@@ -1,119 +1,171 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", VThanhTivi x Okita
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://vthanhtivi.pw:5000/live/index.m3u8
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", VThanhTivi x Okita (sv2)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://stream.vthanhtivi.pw/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", Okita Sport UHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2021/10/21/rau4-16348032083621920201883.jpg", Okita Sport UHD 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/VSportUHD
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", V Sport UHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png", V Sport UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://asia.vthanhtivi.pw/Test/mpegts
 
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png", Bein Sports 1 FHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://evolved.host:8080/emeliorush@yahoo.com/PVHGhdK4wx/496577
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event UHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/SSMEuhd
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", Eleven Sports 1 UHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", Eleven Sports 1 UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/11sports1
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/250?cb=20230210154620", Sky Sports Main Event FHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/250?cb=20230210154620", Sky Sports Main Event FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508252
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", Eleven Sports 1 Bồ Đào Nha FHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png", Eleven Sports 1 Bồ Đào Nha FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/495207
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png", Sky Sport F1 UHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png", Sky Sport F1 UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/SSF1uhd
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png", HUB Premier2 UHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png", HUB Premier2 UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/HubP2uhd
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Nova_Sport_1_2016.svg/revision/latest/scale-to-width-down/250?cb=20200714094309", Nova Sport 1
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Nova_Sport_1_2016.svg/revision/latest/scale-to-width-down/250?cb=20200714094309", Nova Sport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.188.188.235/live/novasport1/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/10/Nova_Sport_2HD.png", Nova Sport 2
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.pcdays.cz/wp-content/uploads/2016/10/Nova_Sport_2HD.png", Nova Sport 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.188.188.235/live/novasport2/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png", Nova Sport 3
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Nova_Sport_3.png", Nova Sport 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_Nova_Sport_4_SK.png", Nova Sport 4
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_Nova_Sport_4_SK.png", Nova Sport 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png", Sport TV 1
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png", Sport TV 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://50.7.137.106:8080/SPORT_TV1/index.m3u8?token=test
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png", Sport TV 2
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png", Sport TV 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://50.7.137.106:8080/SPORT_TV2/index.m3u8?token=test
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png", Sport TV 3
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png", Sport TV 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://50.7.137.106:8080/SPORT_TV3/index.m3u8?token=test
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png", Sport TV 4
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png", Sport TV 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://50.7.137.106:8080/SPORT_TV4/index.m3u8?token=test
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png", Sport TV 5
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png", Sport TV 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://50.7.137.106:8080/SPORT_TV5/index.m3u8?token=test
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png", ARENA SPORTS 1
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://neotel.mk/wp-content/uploads/2021/02/arena_sport_1.png", ARENA SPORTS 1
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png", ARENA SPORTS 2
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport2.png", ARENA SPORTS 2
 http://93.155.227.38:90/m3u8/arenasport2.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAABQCAMAAADydPuqAAABI1BMVEUAAAD/////1w319fU1NTX/3Drt7e3/4Q5ERES8vLzR0dG5ubloaGji4uKJiYmfn59hYWEbGxuVlZVcXFx1dXXGxsb50g0xMTHzzQzLy8v3+f/n5+fz8/PZ2dkhISH0zgxTU1PrxgzfvAt9fX2srKwVFRWwsLA8PDyEhISOjo6Xl5cpKSl4eHgMDAxwWwCukwjs48a6nQnauyvFpgrh0pvXtQuMdACDawB9ZgDJxrrf3NPAogqfhgj/5Dr/4FblyVPy7+PVukvm04zSwYDAqUbHuH/Guorjzn6zpGfQyrXhwjyUfx2noYm6sZGniwBwYzBmUgCYiEWHdB3q4Lrtyy51ZiOLg2aIdy/o5NW1q4bh1qubiDTRu1+1pGGGeUXPu20bIzZvxaixAAAP4UlEQVR4nO2da3fbNhKGxZWrle+2bMmyJUWifE/iOFqFsmN7t+4tTdrEdXe3bfbW7v//FUuAIjkDYAaQKJ70nMV7jj+YBC8AHgKDwQCqVLy8Yv35s4XqL586P16/E/3xDwvVZ586P16/E3mwvEqRB8urFHmwvEqRB8urFHmwvEqRB8urFHmwvEqRB8urFHmwvEqRB8urFHmwvEqRB8urFLmA1UrlwfJylRWsVqsfhkOpsN23seUGVgC0SaZaDoyq1pqNJVP6NXN6RfUk8SY8tqLdawmcXaczcgTfyynrS2cn++udWm9/tbFjOt8zv3Wteeh0+3qjuV6Vb7PBpmsSTzl/gtNtOZWpkPoEG1itdvj5q5f3sV6++iIahha0nMDagC90QSYjwJLqGMp5frAC7W6OYMF70F9Irqcd9NieXvsr9JsvPzHcEer0pJqnPmaTrpJPWanDdDv2Ap1KfQIPVqs//PL+4KAqdXBw/9V4GLJkOYFVg6VFJ+PACoLulpq+AFhaNbiBdcbdQlfD8DonymUMWBZ2B6ixY8pViAYLX1pSi9UKP7+fUjVl6/7r8bDNoOUCFvoK6nQ6HqwgWFXSFwFL7QzdwILtT9OW7Yt1ma623Dg7O9vYbKaf11OUSoC1VFe19jShpkfefXs/e5POSrPZY8pVSIA1UB4yWGskN+nmlsax9iqnouQOT7Xj6hM4sFrhlwgridY3I67RcgErLwK2m7GCpV5cBCy1M3QCa2C4L6lnsps62gNHGgmYHWgxCrCM129Le65LWA6H07fYP9vTTz7TDwmwjE1sw5oZYcgYzUMsBqxW+ErjKibrzWVEk+UA1hNYHc+ZhFawgg5KXwgspZidwGq6JEoluFpRsdhJWjFANQlWzMe6luVUSc9WbZgvDE6MF2ybU8tcGVhMJcDSzBBdNFit8FsDVzFZb0fDdgGwnEdSdrBwD1YMLNwZuoB1DC+3DdpEden1O21qQAPAgJW09aYuN+knnxrOCMXlsq8eY8CSRVMj36E4WP0/GbmKdTcmmywHsGB1sNaoA1ioMIuBhdFwAQvdwpJp0WtqtZuoF5yB/1iwJEFrxqPBOjlmFKdVG5IDS2aMrpmiYLXClwRX1XcPEdVk2cE6hNXBjqRcwIJtdkGwUH26gAXG9sGRJdf7DC+IaB4s8UytMZE2q6k1nEqWozJKZMGSKJJni4LV/w42WHGvBfT9LdVk2cFaB9XBj6ScwALNQFGw4FftANZzeC1dSYkCfRBrlgWs3UBrsmRO2KZfGh/n6BAPljCDyU+lKFjQcg9ev3//GnD24SHqzwkWGkkN2KQQrLNnS1PVd7HXOB9SQbD2nywRmtrPBrBgZ+gAFvxCiF4O5VrvwkyygCU8HPhhAytXlcqJSHMKj/BgidOk+VsQrNbwPuOo9sPj1eTqx2524GZCWVlWsCAV5hFOJgjWLjyxBD2s+ZcFwbJ6lUxggVkAO1h1eKFt+C08qcxAC8gG1rl6vubAtezbUGlbwBKZGxDnCoOVtVDBDy8ml6PRw495m3VF9YVWsIgWwiQSLOSZzE2O4mDlnaEdrBm+kAQs24RMIhtY20qVC7+TwyyleEs4RrCAVenSg8yiYOVjwpvHu9toOIwePmaoXY2G84E1y0iKAQuO9LOWoDhYuVvNCtYFvOzMlAJKgGXzoCaygSXMdzjDGLhV867Cnw2sfXpSqChY33VribrvYozarVY4zoaJwV8v5wSLGkmZ+gkGLOgMy04tAKysTq1gkV+IsWESU25u4QlWsNaRRSV6Rj02w6AefgMbWEf09FFRsMLbu+sXQteTxNXejvIW6/pyaLbeLWChkRSsgmWDlcKBBSo+K+ZFgJVaK1awqC9kz1jNx671bwdrBYElLCynpnAHZ8QG1mZ5YLWH49Gl1CgK+624xfoit7FezAkWnIBHFqeJBA4sYKtlHpxFgJU+yAbWLrwGNrdHZltKDCEHtncSsoLVg2DVKe51CbM0n0f8dGCJQKzhMA3wa8f/fAdGhdfz2VjkSGrD5CtlweqWBNa0Vm1gwS8ENUWEA0gYWVV7YI0DWF3okhK54CP6MgkrP7/QBlazNBtLxGL124nCb2P9Dbi13s85KoSooJFUzeSKKdJi7W/vIS2pk/4kWElDagHrFF4BS/mM4kKOYx2CAmxgXaDbsC5yrL0AdhI2sIwVkqgwWDlhfz84OEBu+J/I2UIeLFgd8EPbCUzFyYEF2r5sWMx63tViIsFKHmUBC8bJoSkWwY/RSt+TaZuGoBYsG1iYXPXxnGKrsJv9YwFrj/kKFgoWnit8/eJyLs/7U1h/8IQMm9QiaDiwTgynWLDUm0OwlvWkFrBgcjhXMiDSV7JPYYULFKrYwepB40dMvVg7/VRoutIC1hHzFosDSwtzeCQd7zxYXVAdcNL0ibn+GLD2wKnMWObA0ibqIFgbRyitqCoeLBRjDE8kMYwDY+6PU7tspcGM4yxgibb9EP3nEmovJb7FbFrHApapxFKVBlbw84v5ohtQxeORlJRa3AxYAFGz512VtqwHgtVAzgP5MB4s6gvZTg5RjchuPhXVO9KsxkQWsGrIzyly7Gi7J/1FBgQP1rKpxFKV12KJnnAesJiRlJQ6DCHB2oEc5F8sA5Y+dMZgDXByC1joQbAC0paPHP6twbUSnU1Dy8WDJeaRQF96OAtYG7AYWbCEHUfHYpQHVvDubh6wYF1pI6lpfSJBsBqDnam2GnjpXe42YsDSmwcMFrTZAtHksGBBOhCyKfBM93R8BkP+OxoWLFgnygOfzwLWuStY4q7M9GOJNlbwdkT4Rzmw2JGUlDLt6RSPBZo5GixDMSlgKZ3h2jPwjwrWHkoJTmQxjJZZ4dON5XwWXQGDA2tFvbXI8TmVWpXI8SD9hwFLlszAfE6oRLCY4GQGLFgd2kjKVB9OYIHlCTRYhol6FSxlZSaERwULtm5deCKP0LIM/eTbHk0trnVUwTRYyTJf5K8QRWeLXc0kijOzbEmw1iTyXOzYIsGqdrtdFEL64ZJYT0GDdQ7rDZ4A8Se4x3IBC8YV0GAZ1kypYClLOGF3q4IF00FkgW+NXv8HdTq1yWAInhms+vPk9WrKZH3gOgVZSUzc7J9VU6nspbCzjtwF+rHC8d3k+pcPAKwu5XCgwYLBedAyhKvBcH04gIXsfRIs0+SEBpbSGQIpYLl8IY4xMulrAGOfXQmtZaTrumVERUKYz3ZwK6F7fOTYAsGS89EPk6ubDKwDysoiwUJrtZeoEyh81g4W/lrnnitMwCK3KVDAIjcIcNw5AGupi/PBgNUbaFcLlh0ZFtnLP2garA7hB8m0OLDkfHQUjS8ntYysdw9ROBNY5EiKbMrsYCn0FASLLGwMFr1BANrrxPb8XKKlHGT/UWD1Nk2OJTGgdjSyRO520X8m7dsxLQ5Wa/onN8jqt8No9DaPKiX6QgosOMpSTEOya7GBpQYEFwWL6gwxWNBboJhS8CIqsFeXIDVv4ARY+sYIVOck4rwc+0Jcuoa9G5ZE+XXpG6QqHI8VTpVuXNRqR5dZi1UjgpMpsMiRVIUeLlpbLCV7hcEitlZBYKEvROk1YCadTR/pbsmLxBo2gyWSO4WmnuNCMe7dIMrEPhYoBFar9TLVq2wPkNiI/zgvWLA61I+Zgs4KltJkFQaL6CAQWNwGAcjBZTNV8C2zf2YEa8uVYfFKoJszuxuEv8TqcC0GVph2egcf8z1A2uP7OcFizQ/kkgfdJAQrDcCvoe4KV15xsMydIQILntAc7LQhyUk0JllfNyNYkgWHeWjVZ28GS851nmqHsQqClYeL5s7QdpTZWB0ihpQAC24kpQ+YiElECFbOG6xZ3KkuACxjZwjBQlutaTelR7icRE1l/qlZwZJjCavFPVBTEQ5SEXFtC/AqBFZ/mHV61X/cRclWa3Bbo5uZWizLVmvIAZW7ls2T0ChCb4O6zZxgGTtDCBb/hdAjXE5oDeqsYEmPg60z3Nbeh/K8L9tfvCBY/8yncf4lV3/h1RTvJ7czgMWMpKTMYShEdAOsc23mLNVKNmmtaGtqshJgmTpDAJZtgwByhMtptRBY8o0tK2YF77h1J6d0RFJ+M4CCXeG/wfzgf0ZRPDocfpsfCX4lZguNYKGt1kxGrTlwjgALVd5CtjGCYBncpAAs61Zr8Dowwj3hLK4qNABmB0vCzpF1IdtR3DOTYMlofjaMvhhYwE4XBvyb3357BXcjvaFCsoxg2bdag/WRdW9UPBZqVMDxhYBlGIvmBG3Dw8ZRPhzh5sZKQ5/ly3WG7jU7WElQBU1WvaoWYIWLbjgPLCvKivmx+tFXMKRBXU3x82SWKR1YHeYRjDGkhgIL7bAF/M6LAUvvDPNitm8QgJbvpF3KEy0LQAJW8LXNARbvf0/eWd0EgAmbWSFrKVExsFrhCDRZqm4eqbgZE1j8SEoK1Uc6t05GkEITGbj5FgSWNjLMwYJHibI3jnBPJaz7ppo8FpkBUTbzgCU+NWLT22k0tAY1F+gnLhjQDyvoeW9HX1M7RVarP0yobUhNYLlstWZaIk2ChQhaNR+eHyztVxsysFy2WiNGuImHS29WtqpKocwFVmXLOOl9cZ5gVdUH4hxYwswsL4K0FY6/CcxYydUU7oF+TlutoSXrU28hvZgCoprX3qLAUjvDddNjSX8GsdBi6iJuohHXjuQNzaLMBxZW3Ihf1HePesyrsjHvwiamt9wqvFXkcPTG2GbFXNG72xrActu02rDJBg0WYjUrt4WBpdwofWm0QcCAygi1ePI4LYfe6vnh1mDn+dNmkmfsNloAWGiaI6gZIeBX6bBTO8X3bogu35rAirm6pULeDWA5blptsIuZ5V8ouCRt6BcGltIZpmCRGwRgwUtR7dRNv4zUVZxGCwALOnHXiSGDfQ9Scv3XAvZ5j0bf3yjdYfD6p+uYK/JXT3SwHLdaQxuZJfXBgIUaj9RHNDdYeogLumIKFvpCmK3WyEUjcSYbqBOPX1370lAA8VzKi6GzSU4ribJlvFXCMqEiaIQ/omA8VhjdTt4CtILg5tfHyQP3azo6WOu1TF1uFHvSzROuqEeqqjN4FaSuDpJjW9WaXakh28hv0NVb/TVw++nbVM7hMSYjdfAa6avluljbbPbiE/FtT54bqnazuewcfWrW2slys7l8cr5Frm6MtdFcbnLn49doEo3dWnzKIWqV/S2d9nB8Ofnlw+uO2FCi8/r9T49Xd6MoZH6lyf8QplciPjS5H0bj0d3k6vpabu139zCK2B//8mB5TWWJeW/1w2E0vhV7+41ux5H1lzA9WF6J7D/d229Pf7o3DNtt2+9Ce7C8Ern92LjY3K/v8mvjHiyvRC5gzSAPllciD5ZXKfJgeZUiD5ZXKfJgeZUiD5ZXKfJgeZUiD5ZXKfJgeZUiD5ZXKVo4WNSPfHv9X+m/iwbrfznzVn8/uFPyAAAAAElFTkSuQmCC", ARENA SPORTS 3
+#EXTINF:-1 group-title="⚽| Thể thao quốc tếm" tvg-logo="data:image/png;base64,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", ARENA SPORTS 3
 http://93.155.227.38:90/m3u8/arenasport3.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png", ARENA SPORTS 4
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png", ARENA SPORTS 4
 http://93.155.227.38:90/m3u8/arenasport4.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png", ARENA SPORTS 5
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_5.png", ARENA SPORTS 5
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png", ARENA SPORTS 6
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png", ARENA SPORTS 6
 http://185.85.152.220:9901/arenasport6/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 1 FHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 1 FHD
 http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508184
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 1 FHD 50fps
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 1 FHD 50fps
 http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/485621
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 2 FHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 2 FHD
 http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508186
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 2 FHD 50fps
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 2 FHD 50fps
 http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/485622
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 3 FHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 3 FHD
 http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508187
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 3 FHD
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=png&p=true&q=60&w=360", TNT Sport 3 FHD
 http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/485623
 
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png", FR: BeIN Sport 1 FHD 
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/496577
 
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png", FR: BeIN Sport 2 FHD 
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/496578
 
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png", FR: BeIN Sport 3 FHD 
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/496579
 
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Bắc Âu: Setanta Sport
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/214131
 
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Bắc Âu: Setanta Sport+
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/214130
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", UK: MUTV
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/508219
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png", UK: LFCTV
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/522197
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://images.prismic.io/atmosphere-marketing/d9eee09b-5451-4a98-a2b1-20be1b55663a_Real+Madrid+TV+-+Channel+Logo.png?auto=compress,format", Real Madrid TV FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/574616
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://images.prismic.io/atmosphere-marketing/d9eee09b-5451-4a98-a2b1-20be1b55663a_Real+Madrid+TV+-+Channel+Logo.png?auto=compress,format", ES: Real Madrid TV HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/567357
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://images.prismic.io/atmosphere-marketing/d9eee09b-5451-4a98-a2b1-20be1b55663a_Real+Madrid+TV+-+Channel+Logo.png?auto=compress,format", LA TIN: Real Madrid TV HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/571173
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_News_DE_Logo_2020.svg/2560px-Sky_Sport_News_DE_Logo_2020.svg.png", Đức: Sky Sports NEWS FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558943
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_News_DE_Logo_2020.svg/2560px-Sky_Sport_News_DE_Logo_2020.svg.png", Đức: Sky Sports NEWS HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558944
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Đức: Sky Sports EPL FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558945
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Đức: Sky Sports EPL HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558946
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png", Đức: Sky Sports Tennis FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558947
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png", Đức: Sky Sports Tennis HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/545042
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png", Đức: Sky Sports Top Event FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558949
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png", Đức: Sky Sports Top Event HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558950
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm", Đức: Sky Sports Golf FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/522390
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png", Đức: Sky Sports Mix FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558941
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Đức: Sky Sports F1 FHD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558937
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Đức: Sky Sports F1 HD
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/558938
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Golf.png", Hà Lan: Ziggo Golf
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/522392
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png", Hà Lan: Ziggo Sport
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/378767
+
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png", FR: Canal+ Ngoại Hạng Anh
+http://evolved.host:8080/carlton.b.williams1@gmail.com/wmjSiWUXd4/496603
