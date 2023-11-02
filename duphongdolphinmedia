@@ -4,6 +4,10 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://asia.vthanhtivi.pw/Test/mpegts
 
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="http://stream.vthanhtivi.pw/logo", Okita Stream FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s.net.vn/q60A
+
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://web.static.nowtv.com/images/NOWTV_2021/UK/Channels/Sports/11_MainEvent.png", Sky Sports Main Event UHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://7pal.short.gy/SSMEuhd
