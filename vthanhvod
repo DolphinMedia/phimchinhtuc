@@ -15,6 +15,11 @@ https://cdn.helvid.com/video/m3u8/202312/6f893a0d64a7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/2eda89a61055/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬| Tết ở làng địa ngục" tvg-logo="https://vtv1.mediacdn.vn/562122370168008704/2023/9/27/edit-photo-1-1695778724739314806721.png", Tập 1 : Người Chết báo Mộng (Tết ở làng địa ngục)
+#EXTINF:-1 group-title="🎬| Tết ở làng địa ngục" tvg-logo="https://vtv1.mediacdn.vn/562122370168008704/2023/9/27/edit-photo-1-1695778724739314806721.png", Tập 1 : Người chết báo mộng (Tết ở làng địa ngục)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/a947d532b316/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🎬| Tết ở làng địa ngục" tvg-logo="https://vtv1.mediacdn.vn/562122370168008704/2023/9/27/edit-photo-1-1695778724739314806721.png", Tập 2 : Chuyến đò chở vong (Tết ở làng địa ngục)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
