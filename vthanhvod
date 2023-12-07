@@ -8,3 +8,7 @@ https://cdn.helvid.com/video/m3u8/202312/e1aac53ac049/playlist.m3u8
 
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb9t5vLPpeR-hCiihUDzemzy37oz1YpaH0BjAIUhA=s900-c-k-c0x00ffffff-no-rj", Mr Beast | Lương 25K so với lương 25 Tỷ!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_FMjpg_UX1000_.jpg", Charlie và Nhà Máy Sô-cô-la
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/2eda89a61055/playlist.m3u8
