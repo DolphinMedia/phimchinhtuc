@@ -14,6 +14,19 @@ https://cdn.helvid.com/video/m3u8/202312/344be00cde84/playlist.m3u8
 #EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/c/2/70c24a8dc8728363c7ae7a7c223a14fe.jpg", David Kushner : Daylight
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/38e933ea029a/playlist.m3u8
+
+#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/05/There%27s_no_one_at_all.jpg", Sơn Tùng MTP : THERE'S NO ONE AT ALL (1080P)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/265442cd1b5b/playlist.m3u8
+
+#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/05/There%27s_no_one_at_all.jpg", Sơn Tùng MTP : THERE'S NO ONE AT ALL (2K)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/2bc6dd498949/playlist.m3u8
+
+#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/05/There%27s_no_one_at_all.jpg", Sơn Tùng MTP : THERE'S NO ONE AT ALL (4K)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/fabd60608dd5/playlist.m3u8
+
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb9t5vLPpeR-hCiihUDzemzy37oz1YpaH0BjAIUhA=s900-c-k-c0x00ffffff-no-rj", Mr Beast | Lương 25K so với lương 25 Tỷ!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/6f893a0d64a7/playlist.m3u8
