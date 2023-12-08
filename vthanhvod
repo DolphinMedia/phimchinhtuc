@@ -7,6 +7,14 @@ https://cdn.helvid.com/video/m3u8/202312/02e68b1e4508/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/cf227c21516a/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽| Xem lại bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/2560px-LaLiga_2023_Horizontal_Logo.svg.png", Barcelona v Atletico Madrid (Vòng 15 La Liga Mùa 23/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/10dc07e93656/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽| Xem lại bóng đá" tvg-logo="https://media.tmtickets.co.uk/uk_brentfordfc/en-gb/assets/sponsor-logo5.png?etag=d54326c26965ae9d1a1e0d442ce35153", Luton v Arsenal (Vòng 15 EPL Mùa 23/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/5b06cc6e51fd/playlist.m3u8
+
 #EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://i1.sndcdn.com/artworks-000612613917-k1g5et-t500x500.jpg", Hãy Trao Cho Anh (Rap lời Việt)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/e1aac53ac049/playlist.m3u8
@@ -48,3 +56,11 @@ https://cdn.helvid.com/video/m3u8/202312/a947d532b316/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬| Tết ở làng địa ngục" tvg-logo="https://vtv1.mediacdn.vn/562122370168008704/2023/9/27/edit-photo-1-1695778724739314806721.png", Tập 2 : Chuyến đò chở vong (Tết ở làng địa ngục)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/43571797ac0d/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmMzU2OGItNGRjMC00MWYxLWFkMTQtMDdlNWEyMjA2MmU5XkEyXkFqcGdeQXVyNDc0Njc1NTY@._V1_.jpg", Sơn Tùng MTP : Sky Tour The Movies
+https://cdn.helvid.com/video/m3u8/202312/7e01ad895a1e/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://sm.ign.com/ign_fr/news/t/the-next-f/the-next-fast-furious-movie-is-called-fast-x_trxh.jpg", Fast X
+https://cdn.helvid.com/video/m3u8/202312/43571797ac0d/playlist.m3u8
