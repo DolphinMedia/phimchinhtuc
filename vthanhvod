@@ -20,44 +20,10 @@ https://cdn.helvid.com/video/m3u8/202312/5b06cc6e51fd/playlist.m3u8
 https://cdn.helvid.com/video/m3u8/202312/39b02615586a/playlist.m3u8
 
 
-#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://i1.sndcdn.com/artworks-000612613917-k1g5et-t500x500.jpg", Hãy Trao Cho Anh (Rap lời Việt)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/e1aac53ac049/playlist.m3u8
-
-#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://kenh14cdn.com/2018/10/31/6tr5ob5dnnvxl50csjc4yknw6y3j6oieenp56w6branax4elnkekcshyjeyfamkapzxezapt8bdint5kikwkvzlphe4p90m1fcbiqwzj0hq6dsfz3eccg8arumfnstu1tp6m20tkwwhax3fs3u5wwtcw3eyp3bjupahxh9k-1540986548911422012074.jpg", One Direction : What Makes You Beautiful
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/344be00cde84/playlist.m3u8
-
-#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://akamai.sscdn.co/uploadfile/letras/fotos/7/0/c/2/70c24a8dc8728363c7ae7a7c223a14fe.jpg", David Kushner : Daylight
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/38e933ea029a/playlist.m3u8
-
-#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/05/There%27s_no_one_at_all.jpg", Sơn Tùng MTP : THERE'S NO ONE AT ALL (4K)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/fabd60608dd5/playlist.m3u8
-
-#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/05/There%27s_no_one_at_all.jpg", Sơn Tùng MTP : THERE'S NO ONE AT ALL (2K)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/2bc6dd498949/playlist.m3u8
-
-#EXTINF:-1 group-title="♫| Âm nhạc" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/05/There%27s_no_one_at_all.jpg", Sơn Tùng MTP : THERE'S NO ONE AT ALL (1080P)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/265442cd1b5b/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb9t5vLPpeR-hCiihUDzemzy37oz1YpaH0BjAIUhA=s900-c-k-c0x00ffffff-no-rj", Mr Beast | Lương 25K so với lương 25 Tỷ!
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/6f893a0d64a7/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_FMjpg_UX1000_.jpg", Charlie và Nhà Máy Sô-cô-la
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/2eda89a61055/playlist.m3u8
-
-#EXTINF:-1 group-title="🎬| Tết ở làng địa ngục" tvg-logo="https://vtv1.mediacdn.vn/562122370168008704/2023/9/27/edit-photo-1-1695778724739314806721.png", Tập 1 : Người chết báo mộng (Tết ở làng địa ngục)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/a947d532b316/playlist.m3u8
-
+https://cdn.helvid.com/video/m3u8/202312/2eda89a61055/playlist.m3u
 
 #EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmMzU2OGItNGRjMC00MWYxLWFkMTQtMDdlNWEyMjA2MmU5XkEyXkFqcGdeQXVyNDc0Njc1NTY@._V1_.jpg", Sơn Tùng MTP : Sky Tour The Movies
 https://cdn.helvid.com/video/m3u8/202312/7e01ad895a1e/playlist.m3u8
