@@ -18,3 +18,12 @@ https://cdn.helvid.com/video/m3u8/202312/5b06cc6e51fd/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Xem lại bóng đá" tvg-logo="https://media.tmtickets.co.uk/uk_brentfordfc/en-gb/assets/sponsor-logo5.png?etag=d54326c26965ae9d1a1e0d442ce35153", Tottenham v West Ham (Vòng 15 EPL Mùa 23/24)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/39b02615586a/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽| Xem lại bóng đá" tvg-logo="https://media.tmtickets.co.uk/uk_brentfordfc/en-gb/assets/sponsor-logo5.png?etag=d54326c26965ae9d1a1e0d442ce35153",  Sheffield Utd v Liverpool (Vòng 15 EPL Mùa 23/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/c6d1ceabc28c/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽| Xem lại bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",  Argentina v France (Chung kết World Cup 2022)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.helvid.com/video/m3u8/202312/08ec40bdc7d9/playlist.m3u8
+
