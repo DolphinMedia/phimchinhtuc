@@ -18,15 +18,3 @@ https://cdn.helvid.com/video/m3u8/202312/5b06cc6e51fd/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Xem lại bóng đá" tvg-logo="https://media.tmtickets.co.uk/uk_brentfordfc/en-gb/assets/sponsor-logo5.png?etag=d54326c26965ae9d1a1e0d442ce35153", Tottenham v West Ham (Vòng 15 EPL Mùa 23/24)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.helvid.com/video/m3u8/202312/39b02615586a/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_FMjpg_UX1000_.jpg", Charlie và Nhà Máy Sô-cô-la
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.helvid.com/video/m3u8/202312/2eda89a61055/playlist.m3u
-
-#EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmMzU2OGItNGRjMC00MWYxLWFkMTQtMDdlNWEyMjA2MmU5XkEyXkFqcGdeQXVyNDc0Njc1NTY@._V1_.jpg", Sơn Tùng MTP : Sky Tour The Movies
-https://cdn.helvid.com/video/m3u8/202312/7e01ad895a1e/playlist.m3u8
-
-#EXTINF:-1 group-title="🎬| Phim lẻ" tvg-logo="https://static.vieon.vn/vieplay-image/poster_v4/2021/02/08/cvgzp8eh_660x946-changtrainamay.jpg", Chàng Trai Năm Ấy
-https://cdn.helvid.com/video/m3u8/202312/34d5b7ff4901/playlist.m3u8
