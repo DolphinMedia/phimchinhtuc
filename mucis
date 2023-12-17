@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 group-title="Okita Stream" tvg-logo="https://www.cultura.id/wp-content/uploads/2020/08/one-direction.jpg", Okita 4K Music | Thử nghiệm
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.82.20.163:81/skyepl
+http://51.79.253.200/skypl
