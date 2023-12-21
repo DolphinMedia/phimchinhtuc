@@ -28,21 +28,25 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/matchfootball3.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tv.vnoo.net/direct_tv/vthanh/tv/setantaua.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410", Sky Sports F1
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event UK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsf1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
+https://code.vthanhtivi.pw/getlink/daddylive/38/index.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBGb290YmFsbA==", Sky Sports Football UK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
+https://code.vthanhtivi.pw/getlink/daddylive/35/index.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.svg", Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsmainevent.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm", Sky Sports Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://tv.vnoo.net/direct_tv/vthanh/tv/skysportsgolf.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", Sky Sports EPL UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
+https://code.vthanhtivi.pw/getlink/daddylive/130/index.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/96/Golf_Channel_2014.svg/revision/latest?cb=20160715133223", Golf Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
