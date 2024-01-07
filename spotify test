@@ -1,6 +1,57 @@
 #EXTM3U 
-#EXTINF:-1 group-title="overexposed Maroon5" group-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Maroon_5_Overexposed.jpg" tvg-logo="https://maxopediaco.files.wordpress.com/2016/06/maroon-5-one-more-night.jpg", One More Night
-https://cdn.helvid.com/video/m3u8/202312/cd93b4339e5d/playlist.m3u8
+#EXTM3U url-tvg="https://lvttnetwork.000webhostapp.com/guidexample.xml,http://trada.info/epg.xml"
+#EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", Lịch phát sóng xem tại facebook LVTT Entertainment
+https://sb-5.restream.su/preview/20021/4f2fd514-6352-4642-b019-dbabb1824aee/live.m3u8
+#EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", Xem trực tuyến trên LVTT TVOD (link trên FB LVTT)
+https://sb-5.restream.su/preview/20021/4f2fd514-6352-4642-b019-dbabb1824aee/live.m3u8
+#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH Channel
+http://vthanhtivi.pw/vthanhchannel/mpegts
+#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH ANIME
+http://vthanhtivi.pw/vthanhanime/mpegts
+#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH SPORT 1
+http://vthanhtivi.pw/vthanhsports1/mpegts
+#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH SPORT 2
+http://vthanhtivi.pw/vthanhsports2/mpegts
+#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", LVTT TV (SV1)
+http://vthanhtivi.pw/lvtt/mpegts
+#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", LVTT TV (SV2)
+http://vn3.vthanhtivi.pw/lvtt/index.m3u8
+#EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt9" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 1 (DRM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
-#EXTINF:-1 group-title="overexposed Maroon5" group-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Maroon_5_Overexposed.jpg" tvg-logo="https://i.scdn.co/image/ab67616d0000b2730d3ada97ce3ac76560aa1305", Payphone (E)
-https://cdn.helvid.com/video/m3u8/202312/a4f047060e80/playlist.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt1" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 1
+https://edge2.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt2" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 2
+#http://cdn.spmr.tv:80/z95bsa/manifest.m3u8?token=5W1ZK8D4AX
+http://37.18.239.36:8888/Arena_sport_premium_1_HD/index.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt3" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 3
+https://kinescope.io/0atagBxvdQBTWbMd2xB6Vp/master.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt4" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 4
+https://kinescope.io/9xNYmmDygtLnUaNTsc2Wgd/master.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt5" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 5
+https://6f7dptnvuxs.a.trbcdn.net/livemaster/glmi9_live-jj1n4gjcyeq.smil/playlist.m3u8
+#http://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt6" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 6
+https://qi7fj3gzx1w.a.trbcdn.net/livemaster/x1ecc_live-n8t1vjjlihm.smil/playlist.m3u8
+#EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt7" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 7 (DRM)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+https://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt7" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 7
+https://mlb.mrgamingstreams.com/prem.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt8" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 8
+https://kinescope.io/s54mw64XG8QyCXP7xaNMeK/master.m3u8
+#EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt9" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 9 (DRM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#http://hls.sweet.tv/stream/ngxg4qhx8tz2pe2g6w52pvgyhd2suih5m32jkrzp4x3ihutu98w66k8nr4hui6a9xkggtp6c2in45492993m9w56968y67vw999x6829.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt9" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 9
+#https://ZaNa@mlb.mrgamingstreams.com/prem.m3u8
+#EXTINF:-1 group-title="LVTT SPORT" tvg-id="lvtt10" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 10
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
