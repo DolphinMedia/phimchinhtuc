@@ -1,47 +1,7 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://lvttnetwork.000webhostapp.com/guidexample.xml,http://trada.info/epg.xml"
-#EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", Lịch phát sóng xem tại facebook LVTT Entertainment
-https://sb-5.restream.su/preview/20021/4f2fd514-6352-4642-b019-dbabb1824aee/live.m3u8
-#EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", Xem trực tuyến trên LVTT TVOD (link trên FB LVTT)
-https://sb-5.restream.su/preview/20021/4f2fd514-6352-4642-b019-dbabb1824aee/live.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH Channel
-http://vthanhtivi.pw/vthanhchannel/mpegts
-#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH ANIME
-http://vthanhtivi.pw/vthanhanime/mpegts
-#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH SPORT 1
-http://vthanhtivi.pw/vthanhsports1/mpegts
-#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", VTHANH SPORT 2
-http://vthanhtivi.pw/vthanhsports2/mpegts
-#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", LVTT TV (SV1)
-http://vthanhtivi.pw/lvtt/mpegts
-#EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", LVTT TV (SV2)
-http://vn3.vthanhtivi.pw/lvtt/index.m3u8
-#EXTINF:-1 group-title="LVTT SPORT DRM TiviMate" tvg-id="lvtt9" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj",LVTT SPORT 1 (DRM)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/nmp953l4tas1p4j/kplus-ksport1hd.key
+#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn Kpờlớt
+https://fbox-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
 
-#EXTINF:-1,UCL FEED 1 (SV1)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201241&extension=ts
-#EXTINF:-1,UCL FEED 2 (SV1)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201240&extension=ts
-#EXTINF:-1,UCL FEED 3 (SV1)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201239&extension=ts
-#EXTINF:-1,UCL FEED 4 (SV1)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201238&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201237&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201236&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201235&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201234&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 9
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201233&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 10
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201232&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 11
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201231&extension=ts
-#EXTINF:-1 tvg-id="setanta02" tvg-name="Setanta Sports Event 2" tvg-logo="https://static.diceplatform.com/prod/AUTOx110/dce.adjara/settings/Landscape_Logo.miEgJ.png" group-title="Setanta Event Channels",UCL FEED 12
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4B:B4:15&stream=1201230&extension=ts
