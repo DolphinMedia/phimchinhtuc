@@ -1,7 +1,4 @@
 #EXTM3U 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/nmp953l4tas1p4j/kplus-ksport1hd.key
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport1hd", K+Sport1 HD - Nguồn Kpờlớt
-https://fbox-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
-
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://code.vthanhtivi.pw/channel/UmlWSnMvdWZra1ErUHJJY3Q0TEd3Unl2Y2plSEE4NnM4Z1RuYkpEdnJkbUVsUVcyL2JYNDRVeTJFTWRldGFwVHkvaGpFRXlud3p6azkwNFBRS0Nla1E9PQ==/master.m3u8
