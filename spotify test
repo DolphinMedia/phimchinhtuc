@@ -1,3 +1,4 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="onfootball" group-title="Test" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", On Football
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 https://live-on-v1-cdnetwork.sigmaott.com/manifest/on-football/playlist_1080p.m3u8
