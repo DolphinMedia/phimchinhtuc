@@ -1,4 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://code.vthanhtivi.pw/channel/UmlWSnMvdWZra1ErUHJJY3Q0TEd3Unl2Y2plSEE4NnM4Z1RuYkpEdnJkbUVsUVcyL2JYNDRVeTJFTWRldGFwVHkvaGpFRXlud3p6azkwNFBRS0Nla1E9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="onfootball" group-title="Test" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", On Football
+https://live-on-v1-cdnetwork.sigmaott.com/manifest/on-football/playlist_1080p.m3u8
